@@ -1,0 +1,3684 @@
+[
+    {
+        "album": "001",
+        "album_number": 1,
+        "artist": "Docile",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/001/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/001/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "66ea0188-99d1-481f-9ddc-78dab523dfc6",
+                "title": "Anapaesticaly Yours",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/001/Docile+-+EICV7-+No.+1+-+01+Anapaesticaly+Yours.mp3"
+            },
+            {
+                "id": "66ea0188-99d1-481f-9ddc-78dab523dfc6",
+                "title": "(Beachside Lullaby)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/001/Docile+-+EICV7-+No.+1+-+02+(Beachside+Lullaby).mp3"
+            },
+            {
+                "id": "66ea0188-99d1-481f-9ddc-78dab523dfc6",
+                "title": "Not My Friend",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/001/Docile+-+EICV7-+No.+1+-+03+Not+My+Friend.mp3"
+            }
+        ]
+    },
+    {
+        "album": "002",
+        "album_number": 2,
+        "artist": "Coyote Clean Up",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/002/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/002/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "3670b76f-1ddd-4970-94a6-8a73efc7c73f",
+                "title": "FOREVER N EVER BXBY (DXB)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/002/Coyote+Clean+Up+-+EICV7-+No.+2+-+01+FOREVER+N+EVER+BXBY+(DXB).mp3"
+            },
+            {
+                "id": "3670b76f-1ddd-4970-94a6-8a73efc7c73f",
+                "title": "DJ DAMN DOGGIE",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/002/Coyote+Clean+Up+-+EICV7-+No.+2+-+02+DJ+DAMN+DOGGIE.mp3"
+            },
+            {
+                "id": "3670b76f-1ddd-4970-94a6-8a73efc7c73f",
+                "title": "ESCAPE FROM CARNAGE COVE",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/002/Coyote+Clean+Up+-+EICV7-+No.+2+-+03+ESCAPE+FROM+CARNAGE+COVE.mp3"
+            }
+        ]
+    },
+    {
+        "album": "003",
+        "album_number": 3,
+        "artist": "Universe",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "0fd443be-9745-4d03-8558-c833b79b47eb",
+                "title": "The Brothers",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/Universe+-+EICV7-+No.+3+-+01+The+Brothers.mp3"
+            },
+            {
+                "id": "0fd443be-9745-4d03-8558-c833b79b47eb",
+                "title": "Anacapa",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/Universe+-+EICV7-+No.+3+-+02+Anacapa.mp3"
+            },
+            {
+                "id": "0fd443be-9745-4d03-8558-c833b79b47eb",
+                "title": "Hutash",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/Universe+-+EICV7-+No.+3+-+03+Hutash.mp3"
+            },
+            {
+                "id": "0fd443be-9745-4d03-8558-c833b79b47eb",
+                "title": "Forests Untethered",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/Universe+-+EICV7-+No.+3+-+04+Forests+Untethered.mp3"
+            },
+            {
+                "id": "0fd443be-9745-4d03-8558-c833b79b47eb",
+                "title": "Look Down",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/003/Universe+-+EICV7-+No.+3+-+05+Look+Down.mp3"
+            }
+        ]
+    },
+    {
+        "album": "004",
+        "album_number": 4,
+        "artist": "RxGibbs",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/004/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/004/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "5d9d1fff-4bf7-4665-bd34-3093417a8a6c",
+                "title": "In Orbit",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/004/RxGibbs+-+EICV7-+No.+4+-+01+In+Orbit.mp3"
+            },
+            {
+                "id": "5d9d1fff-4bf7-4665-bd34-3093417a8a6c",
+                "title": "Orion Connection",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/004/RxGibbs+-+EICV7-+No.+4+-+02+Orion+Connection.mp3"
+            },
+            {
+                "id": "5d9d1fff-4bf7-4665-bd34-3093417a8a6c",
+                "title": "The Grey Area",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/004/RxGibbs+-+EICV7-+No.+4+-+03+The+Grey+Area.mp3"
+            }
+        ]
+    },
+    {
+        "album": "005",
+        "album_number": 5,
+        "artist": "Telafonica",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/005/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/005/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "e7ae6b19-4fcb-48c7-a1bd-64237fb66897",
+                "title": "I Can Hear There's A Peace In The Dark",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/005/Telafonica+-+EICV7-+No.+5+-+01+I+Can+Hear+There's+A+Peace+In+The+Dark.mp3"
+            },
+            {
+                "id": "e7ae6b19-4fcb-48c7-a1bd-64237fb66897",
+                "title": "Like The 309",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/005/Telafonica+-+EICV7-+No.+5+-+02+Like+The+309.mp3"
+            },
+            {
+                "id": "e7ae6b19-4fcb-48c7-a1bd-64237fb66897",
+                "title": "Need You Tonight",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/005/Telafonica+-+EICV7-+No.+5+-+03+Need+You+Tonight.mp3"
+            }
+        ]
+    },
+    {
+        "album": "006",
+        "album_number": 6,
+        "artist": "Rotten Tropics",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/006/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/006/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "8bc418eb-508f-4406-8335-4b15d5713e76",
+                "title": "Hospital Walls Licked Them To Sleep",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/006/Rotten+Tropics+-+EICV7-+No.+6+-+01+Hospital+Walls+Licked+Them+To+Sleep.mp3"
+            },
+            {
+                "id": "8bc418eb-508f-4406-8335-4b15d5713e76",
+                "title": "S. Fever",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/006/Rotten+Tropics+-+EICV7-+No.+6+-+02+S.+Fever.mp3"
+            },
+            {
+                "id": "8bc418eb-508f-4406-8335-4b15d5713e76",
+                "title": "Ennui Mouth",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/006/Rotten+Tropics+-+EICV7-+No.+6+-+03+Ennui+Mouth.mp3"
+            }
+        ]
+    },
+    {
+        "album": "007",
+        "album_number": 7,
+        "artist": "Lovesliescrushing",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/007/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/007/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "8a52f7bd-a96e-4d8a-a606-e2338c68ebff",
+                "title": "Heart Of Fire",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/007/Lovesliescrushing+-+EICV7-+No.+7+-+01+Heart+Of+Fire.mp3"
+            },
+            {
+                "id": "8a52f7bd-a96e-4d8a-a606-e2338c68ebff",
+                "title": "Brightblueskies",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/007/Lovesliescrushing+-+EICV7-+No.+7+-+02+Brightblueskies.mp3"
+            },
+            {
+                "id": "8a52f7bd-a96e-4d8a-a606-e2338c68ebff",
+                "title": "The Way Of The Sea -Deep Blue-",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/007/Lovesliescrushing+-+EICV7-+No.+7+-+03+The+Way+Of+The+Sea+-Deep+Blue-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "008",
+        "album_number": 8,
+        "artist": "Sally Paradise",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/008/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/008/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "5b1341c4-5dc0-48b8-973d-a744f229eb33",
+                "title": "Robert Smith On The Beach (Single Version)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/008/Sally+Paradise+-+EICV7-+No.+8+-+01+Robert+Smith+On+The+Beach+(Single+Version).mp3"
+            },
+            {
+                "id": "5b1341c4-5dc0-48b8-973d-a744f229eb33",
+                "title": "Ses Mains S'estompent (Bedroom Session)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/008/Sally+Paradise+-+EICV7-+No.+8+-+02+Ses+Mains+S'estompent+(Bedroom+Session).mp3"
+            },
+            {
+                "id": "5b1341c4-5dc0-48b8-973d-a744f229eb33",
+                "title": "Mantra",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/008/Sally+Paradise+-+EICV7-+No.+8+-+03+Mantra.mp3"
+            }
+        ]
+    },
+    {
+        "album": "009",
+        "album_number": 9,
+        "artist": "Ecovillage",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/009/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/009/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "01c1cae9-696b-4c00-8394-0d887084a8bd",
+                "title": "Nature Is Never A Strange Thing",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/009/Ecovillage+-+EICV7-+No.+9+-+01+Nature+Is+Never+A+Strange+Thing.mp3"
+            },
+            {
+                "id": "01c1cae9-696b-4c00-8394-0d887084a8bd",
+                "title": "In All Spirits",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/009/Ecovillage+-+EICV7-+No.+9+-+02+In+All+Spirits.mp3"
+            },
+            {
+                "id": "01c1cae9-696b-4c00-8394-0d887084a8bd",
+                "title": "Good News",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/009/Ecovillage+-+EICV7-+No.+9+-+03+Good+News.mp3"
+            }
+        ]
+    },
+    {
+        "album": "010",
+        "album_number": 10,
+        "artist": "The Artificial Sea",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/010/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/010/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "ea49b119-fc97-491a-9118-e679ca5be606",
+                "title": "Only Son",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/010/The+Artificial+Sea+-+EICV7-+No.+10+-+01+Only+Son.mp3"
+            },
+            {
+                "id": "ea49b119-fc97-491a-9118-e679ca5be606",
+                "title": "High Rise",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/010/The+Artificial+Sea+-+EICV7-+No.+10+-+02+High+Rise.mp3"
+            },
+            {
+                "id": "ea49b119-fc97-491a-9118-e679ca5be606",
+                "title": "Lazy Day",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/010/The+Artificial+Sea+-+EICV7-+No.+10+-+03+Lazy+Day.mp3"
+            }
+        ]
+    },
+    {
+        "album": "011",
+        "album_number": 11,
+        "artist": "Bon Accord",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/011/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/011/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "6169937f-01a3-437e-b9b2-b56f6fd101ed",
+                "title": "Huish Park",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/011/Bon+Accord+-+EICV7-+No.+11+-+01+Huish+Park.mp3"
+            },
+            {
+                "id": "6169937f-01a3-437e-b9b2-b56f6fd101ed",
+                "title": "Lopsided",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/011/Bon+Accord+-+EICV7-+No.+11+-+02+Lopsided.mp3"
+            }
+        ]
+    },
+    {
+        "album": "012",
+        "album_number": 12,
+        "artist": "Psychic Powers",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/012/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/012/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "056e1f30-51f0-40f6-9635-dd651b334bca",
+                "title": "It's All Around You",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/012/Psychic+Powers+-+EICV7-+No.+12+-+01+It's+All+Around+You.mp3"
+            },
+            {
+                "id": "056e1f30-51f0-40f6-9635-dd651b334bca",
+                "title": "Dreamboat (Part 2)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/012/Psychic+Powers+-+EICV7-+No.+12+-+02+Dreamboat+(Part+2).mp3"
+            }
+        ]
+    },
+    {
+        "album": "013",
+        "album_number": 13,
+        "artist": "Drifting In Silence",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "1a90e71d-5259-4125-9a2c-9612e4eeac5b",
+                "title": "Interminable",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/Drifting+In+Silence+-+EICV7-+No.+13+-+01+Interminable.mp3"
+            },
+            {
+                "id": "1a90e71d-5259-4125-9a2c-9612e4eeac5b",
+                "title": "Through The Eyes",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/Drifting+In+Silence+-+EICV7-+No.+13+-+02+Through+The+Eyes.mp3"
+            },
+            {
+                "id": "1a90e71d-5259-4125-9a2c-9612e4eeac5b",
+                "title": "When The Sun Goes Down",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/Drifting+In+Silence+-+EICV7-+No.+13+-+03+When+The+Sun+Goes+Down.mp3"
+            },
+            {
+                "id": "1a90e71d-5259-4125-9a2c-9612e4eeac5b",
+                "title": "Lifelike",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/Drifting+In+Silence+-+EICV7-+No.+13+-+04+Lifelike.mp3"
+            },
+            {
+                "id": "1a90e71d-5259-4125-9a2c-9612e4eeac5b",
+                "title": "Waves Of Consciousness",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/013/Drifting+In+Silence+-+EICV7-+No.+13+-+05+Waves+Of+Consciousness.mp3"
+            }
+        ]
+    },
+    {
+        "album": "014",
+        "album_number": 14,
+        "artist": "David Shane Smith",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/014/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/014/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "a53435b5-b8b4-47c9-a33d-888fc2880cb3",
+                "title": "Ativanhotel",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/014/David+Shane+Smith+-+EICV7-+No.+14+-+01+Ativanhotel.mp3"
+            },
+            {
+                "id": "a53435b5-b8b4-47c9-a33d-888fc2880cb3",
+                "title": "Firefalls",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/014/David+Shane+Smith+-+EICV7-+No.+14+-+02+Firefalls.mp3"
+            },
+            {
+                "id": "a53435b5-b8b4-47c9-a33d-888fc2880cb3",
+                "title": "Letmeout",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/014/David+Shane+Smith+-+EICV7-+No.+14+-+03+Letmeout.mp3"
+            }
+        ]
+    },
+    {
+        "album": "015",
+        "album_number": 15,
+        "artist": "Lake R▲dio",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/015/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/015/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "0f410bbc-55ea-4cc1-9ee0-0ea3c44e9b5c",
+                "title": "Eyes Rarely Closed",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/015/Lake+R%E2%96%B2dio+-+EICV7-+No.+15+-+01+Eyes+Rarely+Closed.mp3"
+            },
+            {
+                "id": "0f410bbc-55ea-4cc1-9ee0-0ea3c44e9b5c",
+                "title": "Tomorrow Never Knows-Within You Without You (Lake ",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/015/Lake+R%E2%96%B2dio+-+EICV7-+No.+15+-+02+Tomorrow+Never+Knows-Within+You+Without+You+(Lake+R%E2%96%B2dio+Remix).mp3"
+            },
+            {
+                "id": "0f410bbc-55ea-4cc1-9ee0-0ea3c44e9b5c",
+                "title": "We Are Cosmic",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/015/Lake+R%E2%96%B2dio+-+EICV7-+No.+15+-+03+We+Are+Cosmic.mp3"
+            }
+        ]
+    },
+    {
+        "album": "016",
+        "album_number": 16,
+        "artist": "Ike Yard",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/016/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/016/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "676b6d01-81e8-4f35-98af-234341593fa9",
+                "title": "Elysians",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/016/Ike+Yard+-+EICV7-+No.+16+-+01+Elysians.mp3"
+            },
+            {
+                "id": "676b6d01-81e8-4f35-98af-234341593fa9",
+                "title": "Mille Filles",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/016/Ike+Yard+-+EICV7-+No.+16+-+02+Mille+Filles.mp3"
+            }
+        ]
+    },
+    {
+        "album": "017",
+        "album_number": 17,
+        "artist": "Pintail",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/017/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/017/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "5964ac10-3a34-4f6b-a2a8-28907b6d2b82",
+                "title": "Moments I",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/017/Pintail+-+EICV7-+No.+17+-+01+Moments+I.mp3"
+            },
+            {
+                "id": "5964ac10-3a34-4f6b-a2a8-28907b6d2b82",
+                "title": "Moments II",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/017/Pintail+-+EICV7-+No.+17+-+02+Moments+II.mp3"
+            },
+            {
+                "id": "5964ac10-3a34-4f6b-a2a8-28907b6d2b82",
+                "title": "Moments III",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/017/Pintail+-+EICV7-+No.+17+-+03+Moments+III.mp3"
+            }
+        ]
+    },
+    {
+        "album": "018",
+        "album_number": 18,
+        "artist": "Japanese Gum",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/018/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/018/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "dd99cd25-3b70-43f8-9474-09265f7cf489",
+                "title": "Mantra (Footsteps Marked Below)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/018/Japanese+Gum+-+EICV7-+No.+18+-+01+Mantra+(Footsteps+Marked+Below).mp3"
+            },
+            {
+                "id": "dd99cd25-3b70-43f8-9474-09265f7cf489",
+                "title": "Places",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/018/Japanese+Gum+-+EICV7-+No.+18+-+02+Places.mp3"
+            }
+        ]
+    },
+    {
+        "album": "019",
+        "album_number": 19,
+        "artist": "Colin Nance",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "Dream Cove",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+01+Dream+Cove.mp3"
+            },
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "Awakening",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+02+Awakening.mp3"
+            },
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "We Will Meet Again Soon",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+03+We+Will+Meet+Again+Soon.mp3"
+            },
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "Saturated Hues",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+04+Saturated+Hues.mp3"
+            },
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "Lack Of Color",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+05+Lack+Of+Color.mp3"
+            },
+            {
+                "id": "b5228b35-a593-483a-8825-87376f8b6fa9",
+                "title": "Warm",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/019/Colin+Nance+-+EICV7-+No.+19+-+06+Warm.mp3"
+            }
+        ]
+    },
+    {
+        "album": "020",
+        "album_number": 20,
+        "artist": "Purple Pawz",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "cbb3bec0-0d82-4481-976b-709d8ff82a84",
+                "title": "We Are Probably Lost (out on the deck)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/Purple+Pawz+-+EICV7-+No.+20+-+01+We+Are+Probably+Lost+(out+on+the+deck).mp3"
+            },
+            {
+                "id": "cbb3bec0-0d82-4481-976b-709d8ff82a84",
+                "title": "House Of Owls",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/Purple+Pawz+-+EICV7-+No.+20+-+02+House+Of+Owls.mp3"
+            },
+            {
+                "id": "cbb3bec0-0d82-4481-976b-709d8ff82a84",
+                "title": "(satie rmx)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/Purple+Pawz+-+EICV7-+No.+20+-+03+(satie+rmx).mp3"
+            },
+            {
+                "id": "cbb3bec0-0d82-4481-976b-709d8ff82a84",
+                "title": "Suspended Spirit I Will Stay",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/Purple+Pawz+-+EICV7-+No.+20+-+04+Suspended+Spirit+I+Will+Stay.mp3"
+            },
+            {
+                "id": "cbb3bec0-0d82-4481-976b-709d8ff82a84",
+                "title": "This Is What Heaven Sounds Like (loop)",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/020/Purple+Pawz+-+EICV7-+No.+20+-+05+This+Is+What+Heaven+Sounds+Like+(loop).mp3"
+            }
+        ]
+    },
+    {
+        "album": "021",
+        "album_number": 21,
+        "artist": "Br'er",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/021/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/021/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "dc9ee92a-d584-4c71-bb0b-cf8e00723986",
+                "title": "Persuasion (Throbbing Gristle Cover)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/021/Br'er+-+EICV7-+No.+21+-+01+Persuasion+(Throbbing+Gristle+Cover).mp3"
+            },
+            {
+                "id": "dc9ee92a-d584-4c71-bb0b-cf8e00723986",
+                "title": "Dozen Dream",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/021/Br'er+-+EICV7-+No.+21+-+02+Dozen+Dream.mp3"
+            },
+            {
+                "id": "dc9ee92a-d584-4c71-bb0b-cf8e00723986",
+                "title": "Empathy",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/021/Br'er+-+EICV7-+No.+21+-+03+Empathy.mp3"
+            }
+        ]
+    },
+    {
+        "album": "022",
+        "album_number": 22,
+        "artist": "Robert Allaire",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/022/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/022/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "ee99463f-bdb0-4686-9ad9-0479de2dcfef",
+                "title": "As Above, So Below",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/022/Robert+Allaire+-+EICV7-+No.+22+-+01+As+Above,+So+Below.mp3"
+            },
+            {
+                "id": "ee99463f-bdb0-4686-9ad9-0479de2dcfef",
+                "title": "Augur",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/022/Robert+Allaire+-+EICV7-+No.+22+-+02+Augur.mp3"
+            },
+            {
+                "id": "ee99463f-bdb0-4686-9ad9-0479de2dcfef",
+                "title": "All Things Equal",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/022/Robert+Allaire+-+EICV7-+No.+22+-+03+All+Things+Equal.mp3"
+            }
+        ]
+    },
+    {
+        "album": "023",
+        "album_number": 23,
+        "artist": "Velvet Glacier",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/023/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/023/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "3969ae73-1f2d-4cc4-9cb6-15a83d70df90",
+                "title": "I've Never Been In Kansas",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/023/Velvet+Glacier+-+EICV7-+No.+23+-+01+I've+Never+Been+In+Kansas.mp3"
+            },
+            {
+                "id": "3969ae73-1f2d-4cc4-9cb6-15a83d70df90",
+                "title": "Well What Are We Talking About Then, Huh-",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/023/Velvet+Glacier+-+EICV7-+No.+23+-+02+Well+What+Are+We+Talking+About+Then,+Huh-.mp3"
+            },
+            {
+                "id": "3969ae73-1f2d-4cc4-9cb6-15a83d70df90",
+                "title": "What If-",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/023/Velvet+Glacier+-+EICV7-+No.+23+-+03+What+If-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "024",
+        "album_number": 24,
+        "artist": "Soul Glimpse",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/024/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/024/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "2bd078c7-ce26-41d6-9969-f7b4be51f71c",
+                "title": "(Pale)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/024/Soul+Glimpse+-+EICV7-+No.+24+-+01+(Pale).mp3"
+            },
+            {
+                "id": "2bd078c7-ce26-41d6-9969-f7b4be51f71c",
+                "title": "Today's Lost Tempo",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/024/Soul+Glimpse+-+EICV7-+No.+24+-+02+Today's+Lost+Tempo.mp3"
+            },
+            {
+                "id": "2bd078c7-ce26-41d6-9969-f7b4be51f71c",
+                "title": "Slow Dance Of Golden Lights",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/024/Soul+Glimpse+-+EICV7-+No.+24+-+03+Slow+Dance+Of+Golden+Lights.mp3"
+            }
+        ]
+    },
+    {
+        "album": "025",
+        "album_number": 25,
+        "artist": "Derek Piotr",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "49efad30-f873-4b4f-90bb-6226428ce555",
+                "title": "Nhala (EIC Edit)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/Derek+Piotr+-+EICV7-+No.+25+-+01+Nhala+(EIC+Edit).mp3"
+            },
+            {
+                "id": "49efad30-f873-4b4f-90bb-6226428ce555",
+                "title": "Small Rivers Over Sand",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/Derek+Piotr+-+EICV7-+No.+25+-+02+Small+Rivers+Over+Sand.mp3"
+            },
+            {
+                "id": "49efad30-f873-4b4f-90bb-6226428ce555",
+                "title": "Totem",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/Derek+Piotr+-+EICV7-+No.+25+-+03+Totem.mp3"
+            },
+            {
+                "id": "49efad30-f873-4b4f-90bb-6226428ce555",
+                "title": "The Sequel",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/025/Derek+Piotr+-+EICV7-+No.+25+-+04+The+Sequel.mp3"
+            }
+        ]
+    },
+    {
+        "album": "026",
+        "album_number": 26,
+        "artist": "Odawas",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/026/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/026/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "e4fcfd9b-f115-4f73-a979-40f297c20e79",
+                "title": "Caesar And Cleo",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/026/Odawas+-+EICV7-+No.+26+-+01+Caesar+And+Cleo.mp3"
+            },
+            {
+                "id": "e4fcfd9b-f115-4f73-a979-40f297c20e79",
+                "title": "The Last Odawas Song",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/026/Odawas+-+EICV7-+No.+26+-+02+The+Last+Odawas+Song.mp3"
+            },
+            {
+                "id": "e4fcfd9b-f115-4f73-a979-40f297c20e79",
+                "title": "Partner Of The Pack",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/026/Odawas+-+EICV7-+No.+26+-+03+Partner+Of+The+Pack.mp3"
+            }
+        ]
+    },
+    {
+        "album": "027",
+        "album_number": 27,
+        "artist": "f〇fㄚ",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/027/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/027/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c06915c0-c881-44c2-bea6-fe188a8ecb5e",
+                "title": "Heart Split In Two",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/027/f%E3%80%87f%E3%84%9A+-+EICV7-+No.+27+-+01+Heart+Split+In+Two.mp3"
+            },
+            {
+                "id": "c06915c0-c881-44c2-bea6-fe188a8ecb5e",
+                "title": "Wasted",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/027/f%E3%80%87f%E3%84%9A+-+EICV7-+No.+27+-+02+Wasted.mp3"
+            }
+        ]
+    },
+    {
+        "album": "028",
+        "album_number": 28,
+        "artist": "Ivory Fields",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/028/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/028/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "87d3b2e2-f402-4d12-bdc1-75f28ccc809d",
+                "title": "Campo Campo",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/028/Ivory+Fields+-+EICV7-+No.+28+-+01+Campo+Campo.mp3"
+            },
+            {
+                "id": "87d3b2e2-f402-4d12-bdc1-75f28ccc809d",
+                "title": "SYN Flood",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/028/Ivory+Fields+-+EICV7-+No.+28+-+02+SYN+Flood.mp3"
+            }
+        ]
+    },
+    {
+        "album": "029",
+        "album_number": 29,
+        "artist": "Biblo",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/029/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/029/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "8b3939fc-c8bc-4fc6-beb9-5722e2f4f8d5",
+                "title": "Half Full (Wisdom)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/029/Biblo+-+EICV7-+No.+29+-+01+Half+Full+(Wisdom).mp3"
+            },
+            {
+                "id": "8b3939fc-c8bc-4fc6-beb9-5722e2f4f8d5",
+                "title": "May Be (Truth)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/029/Biblo+-+EICV7-+No.+29+-+02+May+Be+(Truth).mp3"
+            },
+            {
+                "id": "8b3939fc-c8bc-4fc6-beb9-5722e2f4f8d5",
+                "title": "If (Human Dignity)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/029/Biblo+-+EICV7-+No.+29+-+03+If+(Human+Dignity).mp3"
+            }
+        ]
+    },
+    {
+        "album": "030",
+        "album_number": 30,
+        "artist": "Ʌ",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/030/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/030/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "6666831e-2d99-4b67-88ec-b264bf8df370",
+                "title": "Dreams Of Violence",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/030/%C9%85+-+EICV7-+No.+30+-+01+Dreams+Of+Violence.mp3"
+            }
+        ]
+    },
+    {
+        "album": "031",
+        "album_number": 31,
+        "artist": "Black Pill",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/031/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/031/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "51c8fbcf-55c3-4a21-98af-4d2c72e69151",
+                "title": "Plainsong",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/031/Black+Pill+-+EICV7-+No.+31+-+02+Plainsong.mp3"
+            },
+            {
+                "id": "51c8fbcf-55c3-4a21-98af-4d2c72e69151",
+                "title": "Plainsong",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/031/Seven+Saturdays+feat.+Jonathan+Bates+(Big+Black+Delta)+-+EICV7-+No.+31+-+01+Plainsong.mp3"
+            }
+        ]
+    },
+    {
+        "album": "032",
+        "album_number": 32,
+        "artist": "YlangYlang",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/032/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/032/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "3ee13bb9-3263-460a-a86a-52566f6e67ae",
+                "title": "Dogfight",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/032/YlangYlang+-+EICV7-+No.+32+-+01+Dogfight.mp3"
+            },
+            {
+                "id": "3ee13bb9-3263-460a-a86a-52566f6e67ae",
+                "title": "Ancient Wisdom",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/032/YlangYlang+-+EICV7-+No.+32+-+02+Ancient+Wisdom.mp3"
+            },
+            {
+                "id": "3ee13bb9-3263-460a-a86a-52566f6e67ae",
+                "title": "Evilways",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/032/YlangYlang+-+EICV7-+No.+32+-+03+Evilways.mp3"
+            }
+        ]
+    },
+    {
+        "album": "033",
+        "album_number": 33,
+        "artist": "Astrobrite",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "72496a83-e80a-4ba4-b538-bab9a764e38e",
+                "title": "Whiteout Eyes",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/Astrobrite+-+EICV7-+No.+33+-+01+Whiteout+Eyes.mp3"
+            },
+            {
+                "id": "72496a83-e80a-4ba4-b538-bab9a764e38e",
+                "title": "The Ocean Waves Goodbye",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/Astrobrite+-+EICV7-+No.+33+-+02+The+Ocean+Waves+Goodbye.mp3"
+            },
+            {
+                "id": "72496a83-e80a-4ba4-b538-bab9a764e38e",
+                "title": "Eyes Are Colorless (And Still)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/Astrobrite+-+EICV7-+No.+33+-+03+Eyes+Are+Colorless+(And+Still).mp3"
+            },
+            {
+                "id": "72496a83-e80a-4ba4-b538-bab9a764e38e",
+                "title": "Stars Fall From The Sky (EIC Long Edit)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/033/Astrobrite+-+EICV7-+No.+33+-+04+Stars+Fall+From+The+Sky+(EIC+Long+Edit).mp3"
+            }
+        ]
+    },
+    {
+        "album": "034",
+        "album_number": 34,
+        "artist": "Overunda",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/034/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/034/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "ab8dfd62-a4ba-449f-9524-ebd81b072b39",
+                "title": "If I Had A Heart",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/034/Overunda+-+EICV7-+No.+34+-+01+If+I+Had+A+Heart.mp3"
+            },
+            {
+                "id": "ab8dfd62-a4ba-449f-9524-ebd81b072b39",
+                "title": "The Water",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/034/Overunda+-+EICV7-+No.+34+-+02+The+Water.mp3"
+            },
+            {
+                "id": "ab8dfd62-a4ba-449f-9524-ebd81b072b39",
+                "title": "Ludlow",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/034/Overunda+-+EICV7-+No.+34+-+03+Ludlow.mp3"
+            }
+        ]
+    },
+    {
+        "album": "035",
+        "album_number": 35,
+        "artist": "Sideways Heart",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Intro",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+01+Intro.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "The Gate",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+02+The+Gate.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Aleks",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+03+Aleks.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Castles In The Sky",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+04+Castles+In+The+Sky.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Interlude",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+05+Interlude.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Ambedo",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+06+Ambedo.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Kill Me And You'll Make Me Proud",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+07+Kill+Me+And+You'll+Make+Me+Proud.mp3"
+            },
+            {
+                "id": "c9aece99-5c77-4f8e-a10a-51f7881c215f",
+                "title": "Adom",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/035/Sideways+Heart+-+EICV7-+No.+35+-+08+Adom.mp3"
+            }
+        ]
+    },
+    {
+        "album": "036",
+        "album_number": 36,
+        "artist": "Treasure Hunt",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/036/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/036/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "75b66e5f-1ae9-416c-9c7c-22c7855b92b0",
+                "title": "Holy Access",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/036/Treasure+Hunt+-+EICV7-+No.+36+-+01+Holy+Access.mp3"
+            },
+            {
+                "id": "75b66e5f-1ae9-416c-9c7c-22c7855b92b0",
+                "title": "Starfish Gun",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/036/Treasure+Hunt+-+EICV7-+No.+36+-+02+Starfish+Gun.mp3"
+            },
+            {
+                "id": "75b66e5f-1ae9-416c-9c7c-22c7855b92b0",
+                "title": "Banana Cream Pie",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/036/Treasure+Hunt+-+EICV7-+No.+36+-+03+Banana+Cream+Pie.mp3"
+            }
+        ]
+    },
+    {
+        "album": "037",
+        "album_number": 37,
+        "artist": "Elika",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/037/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/037/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "24edd89a-911f-4a61-885e-013d6653ed98",
+                "title": "Endlessness",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/037/Elika+-+EICV7-+No.+37+-+01+Endlessness.mp3"
+            },
+            {
+                "id": "24edd89a-911f-4a61-885e-013d6653ed98",
+                "title": "A Hurricane, A Bar, And An Uncle",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/037/Elika+-+EICV7-+No.+37+-+02+A+Hurricane,+A+Bar,+And+An+Uncle.mp3"
+            },
+            {
+                "id": "24edd89a-911f-4a61-885e-013d6653ed98",
+                "title": "I Love You And I Suffer",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/037/Elika+-+EICV7-+No.+37+-+03+I+Love+You+And+I+Suffer.mp3"
+            }
+        ]
+    },
+    {
+        "album": "038",
+        "album_number": 38,
+        "artist": "Mustapha Mond",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/038/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/038/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "baf680a2-e290-45de-aebf-707f5f1f5f96",
+                "title": "Bloodletter",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/038/Mustapha+Mond+-+EICV7-+No.+38+-+01+Bloodletter.mp3"
+            },
+            {
+                "id": "baf680a2-e290-45de-aebf-707f5f1f5f96",
+                "title": "Fountain",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/038/Mustapha+Mond+-+EICV7-+No.+38+-+02+Fountain.mp3"
+            },
+            {
+                "id": "baf680a2-e290-45de-aebf-707f5f1f5f96",
+                "title": "Into The Void",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/038/Mustapha+Mond+-+EICV7-+No.+38+-+03+Into+The+Void.mp3"
+            }
+        ]
+    },
+    {
+        "album": "039",
+        "album_number": 39,
+        "artist": "Hypermagic",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/039/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/039/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "fadaf037-bf77-47e1-97b5-e078ec81cf50",
+                "title": "Saucebox",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/039/Hypermagic+-+EICV7-+No.+39+-+01+Saucebox.mp3"
+            },
+            {
+                "id": "fadaf037-bf77-47e1-97b5-e078ec81cf50",
+                "title": "Astrosurfing",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/039/Hypermagic+-+EICV7-+No.+39+-+02+Astrosurfing.mp3"
+            }
+        ]
+    },
+    {
+        "album": "040",
+        "album_number": 40,
+        "artist": "Sobrenadar",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/040/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/040/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "99e5330a-915c-40cf-8818-d3de0f51cce6",
+                "title": "I",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/040/Sobrenadar+-+EICV7-+No.+40+-+01+I.mp3"
+            },
+            {
+                "id": "99e5330a-915c-40cf-8818-d3de0f51cce6",
+                "title": "II",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/040/Sobrenadar+-+EICV7-+No.+40+-+02+II.mp3"
+            },
+            {
+                "id": "99e5330a-915c-40cf-8818-d3de0f51cce6",
+                "title": "Unravel",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/040/Sobrenadar+-+EICV7-+No.+40+-+03+Unravel.mp3"
+            }
+        ]
+    },
+    {
+        "album": "041",
+        "album_number": 41,
+        "artist": "The Walking Ghost Phase",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "072bddf2-5bee-46d5-bb7b-ec7024e09098",
+                "title": "Animal",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/The+Walking+Ghost+Phase+-+EICV7-+No.+41+-+01+Animal.mp3"
+            },
+            {
+                "id": "072bddf2-5bee-46d5-bb7b-ec7024e09098",
+                "title": "Serge",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/The+Walking+Ghost+Phase+-+EICV7-+No.+41+-+02+Serge.mp3"
+            },
+            {
+                "id": "072bddf2-5bee-46d5-bb7b-ec7024e09098",
+                "title": "Amanda",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/The+Walking+Ghost+Phase+-+EICV7-+No.+41+-+03+Amanda.mp3"
+            },
+            {
+                "id": "072bddf2-5bee-46d5-bb7b-ec7024e09098",
+                "title": "Edmond B.",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/The+Walking+Ghost+Phase+-+EICV7-+No.+41+-+04+Edmond+B..mp3"
+            },
+            {
+                "id": "072bddf2-5bee-46d5-bb7b-ec7024e09098",
+                "title": "Diane",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/041/The+Walking+Ghost+Phase+-+EICV7-+No.+41+-+05+Diane.mp3"
+            }
+        ]
+    },
+    {
+        "album": "042",
+        "album_number": 42,
+        "artist": "Two Modern Blokes",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/042/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/042/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "72c698f7-bdfa-4deb-9b67-ce3a1cb57d0a",
+                "title": "Official Paperwork",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/042/Two+Modern+Blokes+-+EICV7-+No.+42+-+01+Official+Paperwork.mp3"
+            },
+            {
+                "id": "72c698f7-bdfa-4deb-9b67-ce3a1cb57d0a",
+                "title": "A Bad Lobster In A Dark Cellar",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/042/Two+Modern+Blokes+-+EICV7-+No.+42+-+02+A+Bad+Lobster+In+A+Dark+Cellar.mp3"
+            },
+            {
+                "id": "72c698f7-bdfa-4deb-9b67-ce3a1cb57d0a",
+                "title": "Lara Avery's Dream",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/042/Two+Modern+Blokes+-+EICV7-+No.+42+-+03+Lara+Avery's+Dream.mp3"
+            }
+        ]
+    },
+    {
+        "album": "043",
+        "album_number": 43,
+        "artist": "Daw Nusk",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/043/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/043/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "b4939ace-faad-447c-ab85-205b46365e79",
+                "title": "Golden Ratio Harp",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/043/Daw+Nusk+-+EICV7-+No.+43+-+01+Golden+Ratio+Harp.mp3"
+            },
+            {
+                "id": "b4939ace-faad-447c-ab85-205b46365e79",
+                "title": "The Fence Between Me And The Forest",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/043/Daw+Nusk+-+EICV7-+No.+43+-+02+The+Fence+Between+Me+And+The+Forest.mp3"
+            }
+        ]
+    },
+    {
+        "album": "044",
+        "album_number": 44,
+        "artist": "Afraid",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/044/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/044/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "479071e5-709b-4fb0-b5b1-59b3af8c601f",
+                "title": "Sisters Forever (Feat. Jarboe)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/044/Afraid+-+EICV7-+No.+44+-+01+Sisters+Forever+(Feat.+Jarboe).mp3"
+            },
+            {
+                "id": "479071e5-709b-4fb0-b5b1-59b3af8c601f",
+                "title": "Your Dealer In Heaven",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/044/Afraid+-+EICV7-+No.+44+-+02+Your+Dealer+In+Heaven.mp3"
+            }
+        ]
+    },
+    {
+        "album": "045",
+        "album_number": 45,
+        "artist": "Similarobjects",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "Gentle",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+01+Gentle.mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "8bitdawn",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+02+8bitdawn.mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "ESP (feat. Nouvul)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+03+ESP+(feat.+Nouvul).mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "ZzzParallel (interlude)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+04+ZzzParallel+(interlude).mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "RitualFeelings",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+05+RitualFeelings.mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "Petite",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+06+Petite.mp3"
+            },
+            {
+                "id": "82b3a79a-16bd-46c1-a967-08ae43e0d316",
+                "title": "Fishcake",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/045/Similarobjects+-+EICV7-+No.+45+-+07+Fishcake.mp3"
+            }
+        ]
+    },
+    {
+        "album": "046",
+        "album_number": 46,
+        "artist": "Deadbeat Synesthete",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "24f9a9e9-9f95-4c63-947e-de2726daf141",
+                "title": "No More Dancing",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/Deadbeat+Synesthete+-+EICV7-+No.+46+-+01+No+More+Dancing.mp3"
+            },
+            {
+                "id": "24f9a9e9-9f95-4c63-947e-de2726daf141",
+                "title": "Driving",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/Deadbeat+Synesthete+-+EICV7-+No.+46+-+02+Driving.mp3"
+            },
+            {
+                "id": "24f9a9e9-9f95-4c63-947e-de2726daf141",
+                "title": "Behind New",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/Deadbeat+Synesthete+-+EICV7-+No.+46+-+03+Behind+New.mp3"
+            },
+            {
+                "id": "24f9a9e9-9f95-4c63-947e-de2726daf141",
+                "title": "Sigh",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/Deadbeat+Synesthete+-+EICV7-+No.+46+-+04+Sigh.mp3"
+            },
+            {
+                "id": "24f9a9e9-9f95-4c63-947e-de2726daf141",
+                "title": "Saw Thru My Heart",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/046/Deadbeat+Synesthete+-+EICV7-+No.+46+-+05+Saw+Thru+My+Heart.mp3"
+            }
+        ]
+    },
+    {
+        "album": "047",
+        "album_number": 47,
+        "artist": "Tazmanian Tiger",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/047/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/047/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "6d09c88a-23a8-4b22-b55f-f3a75d2953a1",
+                "title": "Invitation",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/047/Tazmanian+Tiger+-+EICV7-+No.+47+-+01+Invitation.mp3"
+            },
+            {
+                "id": "6d09c88a-23a8-4b22-b55f-f3a75d2953a1",
+                "title": "I Think I Found The One",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/047/Tazmanian+Tiger+-+EICV7-+No.+47+-+02+I+Think+I+Found+The+One.mp3"
+            },
+            {
+                "id": "6d09c88a-23a8-4b22-b55f-f3a75d2953a1",
+                "title": "Universal Love",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/047/Tazmanian+Tiger+-+EICV7-+No.+47+-+03+Universal+Love.mp3"
+            }
+        ]
+    },
+    {
+        "album": "048",
+        "album_number": 48,
+        "artist": "Peasants",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/048/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/048/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "957dc6f8-5784-49c3-b33b-585a9db20fd2",
+                "title": "Outlands",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/048/Peasants+-+EICV7-+No.+48+-+01+Outlands.mp3"
+            },
+            {
+                "id": "957dc6f8-5784-49c3-b33b-585a9db20fd2",
+                "title": "Ben",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/048/Peasants+-+EICV7-+No.+48+-+02+Ben.mp3"
+            },
+            {
+                "id": "957dc6f8-5784-49c3-b33b-585a9db20fd2",
+                "title": "Gather, Fly",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/048/Peasants+-+EICV7-+No.+48+-+03+Gather,+Fly.mp3"
+            }
+        ]
+    },
+    {
+        "album": "049",
+        "album_number": 49,
+        "artist": "Fever 103",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/049/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/049/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "e410a377-bd5e-4348-bb0d-fce5147df350",
+                "title": "After All These Years",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/049/Fever+103+-+EICV7-+No.+49+-+01+After+All+These+Years.mp3"
+            },
+            {
+                "id": "e410a377-bd5e-4348-bb0d-fce5147df350",
+                "title": "I Won't Wait",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/049/Fever+103+-+EICV7-+No.+49+-+02+I+Won't+Wait.mp3"
+            }
+        ]
+    },
+    {
+        "album": "050",
+        "album_number": 50,
+        "artist": "Musicforvoyeurs",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "1bb22636-ae0f-4fa4-b3c0-de23868cd781",
+                "title": "Sing One Note Man",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/Musicforvoyeurs+-+EICV7-+No.+50+-+01+Sing+One+Note+Man.mp3"
+            },
+            {
+                "id": "1bb22636-ae0f-4fa4-b3c0-de23868cd781",
+                "title": "Agua, Cola, Beer",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/Musicforvoyeurs+-+EICV7-+No.+50+-+02+Agua,+Cola,+Beer.mp3"
+            },
+            {
+                "id": "1bb22636-ae0f-4fa4-b3c0-de23868cd781",
+                "title": "What If It Turns Out Good",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/Musicforvoyeurs+-+EICV7-+No.+50+-+03+What+If+It+Turns+Out+Good.mp3"
+            },
+            {
+                "id": "1bb22636-ae0f-4fa4-b3c0-de23868cd781",
+                "title": "I Knew It Was Love",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/Musicforvoyeurs+-+EICV7-+No.+50+-+04+I+Knew+It+Was+Love.mp3"
+            },
+            {
+                "id": "1bb22636-ae0f-4fa4-b3c0-de23868cd781",
+                "title": "Colliding Lovers (Feat. Docile)",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/050/Musicforvoyeurs+-+EICV7-+No.+50+-+05+Colliding+Lovers+(Feat.+Docile).mp3"
+            }
+        ]
+    },
+    {
+        "album": "051",
+        "album_number": 51,
+        "artist": "Eskimeaux",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/051/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/051/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "8f42af90-dd7f-4830-8b9e-744fc71ed82e",
+                "title": "Discarded",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/051/Eskimeaux+-+EICV7-+No.+51+-+01+Discarded.mp3"
+            },
+            {
+                "id": "8f42af90-dd7f-4830-8b9e-744fc71ed82e",
+                "title": "Bear Strength",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/051/Eskimeaux+-+EICV7-+No.+51+-+02+Bear+Strength.mp3"
+            }
+        ]
+    },
+    {
+        "album": "052",
+        "album_number": 52,
+        "artist": "Polytope",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/052/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/052/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c79507e6-8f5a-429b-b551-3a9b6e5bdbe7",
+                "title": "Intro -Dark Matter Parasite-",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/052/Polytope+-+EICV7-+No.+52+-+01+Intro+-Dark+Matter+Parasite-.mp3"
+            },
+            {
+                "id": "c79507e6-8f5a-429b-b551-3a9b6e5bdbe7",
+                "title": "Red Dust",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/052/Polytope+-+EICV7-+No.+52+-+02+Red+Dust.mp3"
+            },
+            {
+                "id": "c79507e6-8f5a-429b-b551-3a9b6e5bdbe7",
+                "title": "Time And Space",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/052/Polytope+-+EICV7-+No.+52+-+03+Time+And+Space.mp3"
+            }
+        ]
+    },
+    {
+        "album": "053",
+        "album_number": 53,
+        "artist": "Videa Gam",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/053/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/053/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "56096acd-948b-479f-833e-91dda2f516bc",
+                "title": "Muscle",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/053/Videa+Gam+-+EICV7-+No.+53+-+01+Muscle.mp3"
+            },
+            {
+                "id": "56096acd-948b-479f-833e-91dda2f516bc",
+                "title": "The Nudes",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/053/Videa+Gam+-+EICV7-+No.+53+-+02+The+Nudes.mp3"
+            },
+            {
+                "id": "56096acd-948b-479f-833e-91dda2f516bc",
+                "title": "Maenads",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/053/Videa+Gam+-+EICV7-+No.+53+-+03+Maenads.mp3"
+            }
+        ]
+    },
+    {
+        "album": "054",
+        "album_number": 54,
+        "artist": "Kigo",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "69ddc59d-04e1-4b19-913b-19765d57c19b",
+                "title": "Lapis (Never Be)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/Kigo+-+EICV7-+No.+54+-+01+Lapis+(Never+Be).mp3"
+            },
+            {
+                "id": "69ddc59d-04e1-4b19-913b-19765d57c19b",
+                "title": "Guilt (Early)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/Kigo+-+EICV7-+No.+54+-+02+Guilt+(Early).mp3"
+            },
+            {
+                "id": "69ddc59d-04e1-4b19-913b-19765d57c19b",
+                "title": "122010",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/Kigo+-+EICV7-+No.+54+-+03+03122010.mp3"
+            },
+            {
+                "id": "69ddc59d-04e1-4b19-913b-19765d57c19b",
+                "title": "Cold (Now Closer)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/054/Kigo+-+EICV7-+No.+54+-+04+Cold+(Now+Closer).mp3"
+            }
+        ]
+    },
+    {
+        "album": "055",
+        "album_number": 55,
+        "artist": "Macajey",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "1c07aa01-ffee-4805-b949-52cfc637d751",
+                "title": "I'll See You Before The Summers Gone",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/Macajey+-+EICV7-+No.+55+-+01+I'll+See+You+Before+The+Summers+Gone.mp3"
+            },
+            {
+                "id": "1c07aa01-ffee-4805-b949-52cfc637d751",
+                "title": "Tired Of This Rain",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/Macajey+-+EICV7-+No.+55+-+02+Tired+Of+This+Rain.mp3"
+            },
+            {
+                "id": "1c07aa01-ffee-4805-b949-52cfc637d751",
+                "title": "Night Sight",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/Macajey+-+EICV7-+No.+55+-+03+Night+Sight.mp3"
+            },
+            {
+                "id": "1c07aa01-ffee-4805-b949-52cfc637d751",
+                "title": "Travelling Shoes",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/Macajey+-+EICV7-+No.+55+-+04+Travelling+Shoes.mp3"
+            },
+            {
+                "id": "1c07aa01-ffee-4805-b949-52cfc637d751",
+                "title": "Mushroom Girl",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/055/Macajey+-+EICV7-+No.+55+-+05+Mushroom+Girl.mp3"
+            }
+        ]
+    },
+    {
+        "album": "056",
+        "album_number": 56,
+        "artist": "Textbeak",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Location Detect",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+01+Location+Detect.mp3"
+            },
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Interceptor",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+02+Interceptor.mp3"
+            },
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Conquered",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+03+Conquered.mp3"
+            },
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Interceptor (H3X3N Remix)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+04+Interceptor+(H3X3N+Remix).mp3"
+            },
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Conquered (ѦPѺLLYѺN'S ▽ISѦGE Remix)",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+05+Conquered+(%D1%A6P%D1%BALLY%D1%BAN%27S+%E2%96%BDIS%D1%A6GE+Remix).mp3"
+            },
+            {
+                "id": "d23c8ea8-1aac-4552-aa5b-e43c0b171e8b",
+                "title": "Interceptor (WMX Remix)",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/056/Textbeak+-+EICV7-+No.+56+-+06+Interceptor+(WMX+Remix).mp3"
+            }
+        ]
+    },
+    {
+        "album": "057",
+        "album_number": 57,
+        "artist": "Pleasure Curses",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/057/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/057/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "314295c7-9707-409d-9c81-8bc79e9dc5c4",
+                "title": "Shackles",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/057/Pleasure+Curses+-+EICV7-+No.+57+-+01+Shackles.mp3"
+            },
+            {
+                "id": "314295c7-9707-409d-9c81-8bc79e9dc5c4",
+                "title": "Envy (Find A Lead)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/057/Pleasure+Curses+-+EICV7-+No.+57+-+02+Envy+(Find+A+Lead).mp3"
+            },
+            {
+                "id": "314295c7-9707-409d-9c81-8bc79e9dc5c4",
+                "title": "Grand Central",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/057/Pleasure+Curses+-+EICV7-+No.+57+-+03+Grand+Central.mp3"
+            }
+        ]
+    },
+    {
+        "album": "058",
+        "album_number": 58,
+        "artist": "Languis",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Times Are Changing",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+01+Times+Are+Changing.mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "In Winter I'll Be Free",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+02+In+Winter+I'll+Be+Free.mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Timonium (Remixed)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+03+Timonium+(Remixed).mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Our Hour",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+04+Our+Hour.mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Times Are Changing (Drone Mix)",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+05+Times+Are+Changing+(Drone+Mix).mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Floating Soul",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+06+Floating+Soul.mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Touch A Cloud (B Version)",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+07+Touch+A+Cloud+(B+Version).mp3"
+            },
+            {
+                "id": "c98f7f3e-96e7-4ecb-847b-d589d151339a",
+                "title": "Byron (Aberdeen's Song)",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/058/Languis+-+EICV7-+No.+58+-+08+Byron+(Aberdeen's+Song).mp3"
+            }
+        ]
+    },
+    {
+        "album": "059",
+        "album_number": 59,
+        "artist": "Soft Lighting",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/059/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/059/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "89601be6-ac84-4ad4-b6d3-d64ac5e3474e",
+                "title": "Unborn",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/059/Soft+Lighting+-+EICV7-+No.+59+-+01+Unborn.mp3"
+            },
+            {
+                "id": "89601be6-ac84-4ad4-b6d3-d64ac5e3474e",
+                "title": "So Close",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/059/Soft+Lighting+-+EICV7-+No.+59+-+02+So+Close.mp3"
+            }
+        ]
+    },
+    {
+        "album": "060",
+        "album_number": 60,
+        "artist": "Downstate",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "64a2db90-0bac-4cad-ae5c-de396db9bfc7",
+                "title": "See Them There",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/Downstate+-+EICV7-+No.+60+-+01+See+Them+There.mp3"
+            },
+            {
+                "id": "64a2db90-0bac-4cad-ae5c-de396db9bfc7",
+                "title": "Worry",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/Downstate+-+EICV7-+No.+60+-+02+Worry.mp3"
+            },
+            {
+                "id": "64a2db90-0bac-4cad-ae5c-de396db9bfc7",
+                "title": "WBT",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/Downstate+-+EICV7-+No.+60+-+03+WBT.mp3"
+            },
+            {
+                "id": "64a2db90-0bac-4cad-ae5c-de396db9bfc7",
+                "title": "False Birthday Wish",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/Downstate+-+EICV7-+No.+60+-+04+False+Birthday+Wish.mp3"
+            },
+            {
+                "id": "64a2db90-0bac-4cad-ae5c-de396db9bfc7",
+                "title": "Eyes -Bonus Track-",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/060/Downstate+-+EICV7-+No.+60+-+05+Eyes+-Bonus+Track-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "061",
+        "album_number": 61,
+        "artist": "Ssleeping Desiress",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/061/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/061/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "79b9d563-31ed-44e1-b4ca-c1d3a538c7cd",
+                "title": "Art Object",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/061/Ssleeping+Desiress+-+EICV7-+No.+61+-+01+Art+Object.mp3"
+            },
+            {
+                "id": "79b9d563-31ed-44e1-b4ca-c1d3a538c7cd",
+                "title": "Acts Of Dreams",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/061/Ssleeping+Desiress+-+EICV7-+No.+61+-+02+Acts+Of+Dreams.mp3"
+            }
+        ]
+    },
+    {
+        "album": "062",
+        "album_number": 62,
+        "artist": "Juche",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/062/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/062/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "b5b81c41-6e3d-4ba8-a54e-703a351321f4",
+                "title": "The Whale,",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/062/Juche+-+EICV7-+No.+62+-+01+The+Whale,.mp3"
+            },
+            {
+                "id": "b5b81c41-6e3d-4ba8-a54e-703a351321f4",
+                "title": "In Lincolns",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/062/Juche+-+EICV7-+No.+62+-+02+In+Lincolns.mp3"
+            },
+            {
+                "id": "b5b81c41-6e3d-4ba8-a54e-703a351321f4",
+                "title": "In Lincolns (Instrumental)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/062/Juche+-+EICV7-+No.+62+-+03+In+Lincolns+(Instrumental).mp3"
+            }
+        ]
+    },
+    {
+        "album": "063",
+        "album_number": 63,
+        "artist": "Fil OK",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/063/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/063/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "866db6c4-35eb-4565-b561-924c3970646e",
+                "title": "Planetize (Lost In Space Mix)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/063/Fil+OK+-+EICV7-+No.+63+-+01+Planetize+(Lost+In+Space+Mix).mp3"
+            },
+            {
+                "id": "866db6c4-35eb-4565-b561-924c3970646e",
+                "title": "To Catch A Spark (Fil OK Remix)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/063/Stubborn+Heart+-+EICV7-+No.+63+-+02+To+Catch+A+Spark+(Fil+OK+Remix).mp3"
+            }
+        ]
+    },
+    {
+        "album": "064",
+        "album_number": 64,
+        "artist": "CFM",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f9b2cde0-51a0-4d89-988c-29b64c51390b",
+                "title": "RC Intro",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/CFM+-+EICV7-+No.+64+-+01+RC+Intro.mp3"
+            },
+            {
+                "id": "f9b2cde0-51a0-4d89-988c-29b64c51390b",
+                "title": "4 Years",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/CFM+-+EICV7-+No.+64+-+02+4+Years.mp3"
+            },
+            {
+                "id": "f9b2cde0-51a0-4d89-988c-29b64c51390b",
+                "title": "Union St.",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/CFM+-+EICV7-+No.+64+-+03+Union+St..mp3"
+            },
+            {
+                "id": "f9b2cde0-51a0-4d89-988c-29b64c51390b",
+                "title": "Beggarmans Wife",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/064/CFM+-+EICV7-+No.+64+-+04+Beggarmans+Wife.mp3"
+            }
+        ]
+    },
+    {
+        "album": "065",
+        "album_number": 65,
+        "artist": "Soft Riot",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/065/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/065/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f451c11a-ca3a-4097-966b-cace3f2be9f2",
+                "title": "The Garden Party",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/065/Soft+Riot+-+EICV7-+No.+65+-+01+The+Garden+Party.mp3"
+            },
+            {
+                "id": "f451c11a-ca3a-4097-966b-cace3f2be9f2",
+                "title": "Read You Like An Electronic Book",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/065/Soft+Riot+-+EICV7-+No.+65+-+02+Read+You+Like+An+Electronic+Book.mp3"
+            }
+        ]
+    },
+    {
+        "album": "066",
+        "album_number": 66,
+        "artist": "Ersatz Window",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "62771ff8-9e61-48be-bd13-ca7c2cc55403",
+                "title": "Light Through Water",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/Ersatz+Window+-+EICV7-+No.+66+-+01+Light+Through+Water.mp3"
+            },
+            {
+                "id": "62771ff8-9e61-48be-bd13-ca7c2cc55403",
+                "title": "Bruised",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/Ersatz+Window+-+EICV7-+No.+66+-+02+Bruised.mp3"
+            },
+            {
+                "id": "62771ff8-9e61-48be-bd13-ca7c2cc55403",
+                "title": "Sometimes I'm",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/Ersatz+Window+-+EICV7-+No.+66+-+03+Sometimes+I'm.mp3"
+            },
+            {
+                "id": "62771ff8-9e61-48be-bd13-ca7c2cc55403",
+                "title": "Sprawl",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/Ersatz+Window+-+EICV7-+No.+66+-+04+Sprawl.mp3"
+            },
+            {
+                "id": "62771ff8-9e61-48be-bd13-ca7c2cc55403",
+                "title": "Half Conscious",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/066/Ersatz+Window+-+EICV7-+No.+66+-+05+Half+Conscious.mp3"
+            }
+        ]
+    },
+    {
+        "album": "067",
+        "album_number": 67,
+        "artist": "Earthquake Island",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "6aa1751c-3759-47f9-bb0f-1d466cbd7aa0",
+                "title": "After The Midnight's Candy",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/Earthquake+Island+-+EICV7-+No.+67+-+02+After+The+Midnight's+Candy.mp3"
+            },
+            {
+                "id": "6aa1751c-3759-47f9-bb0f-1d466cbd7aa0",
+                "title": "Black Eyes",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/Earthquake+Island+w-+Kavemura+-+EICV7-+No.+67+-+01+Black+Eyes.mp3"
+            },
+            {
+                "id": "6aa1751c-3759-47f9-bb0f-1d466cbd7aa0",
+                "title": "Black Eyes (Grovekingsley Remix)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/Earthquake+Island+w-+Kavemura+-+EICV7-+No.+67+-+04+Black+Eyes+(Grovekingsley+Remix).mp3"
+            },
+            {
+                "id": "6aa1751c-3759-47f9-bb0f-1d466cbd7aa0",
+                "title": "Autumn Winds",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/067/Kavemura+-+EICV7-+No.+67+-+03+Autumn+Winds.mp3"
+            }
+        ]
+    },
+    {
+        "album": "068",
+        "album_number": 68,
+        "artist": "ḅoƞeṣiƒt",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "fa53b231-569c-48e7-8bb9-d08752fba79d",
+                "title": "Sa Voix",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/%E1%B8%85o%C6%9Ee%E1%B9%A3i%C6%92t+-+EICV7-+No.+68+-+01+Sa+Voix.mp3"
+            },
+            {
+                "id": "fa53b231-569c-48e7-8bb9-d08752fba79d",
+                "title": "Guillotine",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/%E1%B8%85o%C6%9Ee%E1%B9%A3i%C6%92t+-+EICV7-+No.+68+-+02+Guillotine.mp3"
+            },
+            {
+                "id": "fa53b231-569c-48e7-8bb9-d08752fba79d",
+                "title": "Static",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/%E1%B8%85o%C6%9Ee%E1%B9%A3i%C6%92t+-+EICV7-+No.+68+-+03+Static.mp3"
+            },
+            {
+                "id": "fa53b231-569c-48e7-8bb9-d08752fba79d",
+                "title": "INYD",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/068/%E1%B8%85o%C6%9Ee%E1%B9%A3i%C6%92t+-+EICV7-+No.+68+-+04+INYD.mp3"
+            }
+        ]
+    },
+    {
+        "album": "069",
+        "album_number": 69,
+        "artist": "Great White & The Terrible",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "50697703-733b-43d5-86e5-66cf80de20ab",
+                "title": "Dream Catcher",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/Great+White+&+The+Terrible+-+EICV7-+No.+69+-+01+Dream+Catcher.mp3"
+            },
+            {
+                "id": "50697703-733b-43d5-86e5-66cf80de20ab",
+                "title": "Never New",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/Great+White+&+The+Terrible+-+EICV7-+No.+69+-+02+Never+New.mp3"
+            },
+            {
+                "id": "50697703-733b-43d5-86e5-66cf80de20ab",
+                "title": "Style Wars (Ft. Qwaint)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/Great+White+&+The+Terrible+-+EICV7-+No.+69+-+03+Style+Wars+(Ft.+Qwaint).mp3"
+            },
+            {
+                "id": "50697703-733b-43d5-86e5-66cf80de20ab",
+                "title": "Crews",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/069/Great+White+-+EICV7-+No.+69+-+04+Crews.mp3"
+            }
+        ]
+    },
+    {
+        "album": "070",
+        "album_number": 70,
+        "artist": "Claus Muzak",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/070/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/070/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "114bd95b-0025-4359-9e3e-2eca08214d25",
+                "title": "Saw_Thrm",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/070/Claus+Muzak+-+EICV7-+No.+70+-+01+Saw_Thrm.mp3"
+            },
+            {
+                "id": "114bd95b-0025-4359-9e3e-2eca08214d25",
+                "title": "Ash_Acid",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/070/Claus+Muzak+-+EICV7-+No.+70+-+02+Ash_Acid.mp3"
+            },
+            {
+                "id": "114bd95b-0025-4359-9e3e-2eca08214d25",
+                "title": "Cut_Slow",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/070/Claus+Muzak+-+EICV7-+No.+70+-+03+Cut_Slow.mp3"
+            }
+        ]
+    },
+    {
+        "album": "071",
+        "album_number": 71,
+        "artist": "FE∀RS",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/071/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/071/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f7bd4f27-f8ae-4888-99ba-02ade4025296",
+                "title": "Sirens - Control",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/071/FE%E2%88%80RS+-+EICV7-+No.+71+-+01+Sirens+-+Control.mp3"
+            },
+            {
+                "id": "f7bd4f27-f8ae-4888-99ba-02ade4025296",
+                "title": "Voices",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/071/FE%E2%88%80RS+-+EICV7-+No.+71+-+02+Voices.mp3"
+            }
+        ]
+    },
+    {
+        "album": "072",
+        "album_number": 72,
+        "artist": "Thee Koukouvaya",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/072/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/072/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "22a4ec21-63a6-4b78-aaaf-40c0bfef69fb",
+                "title": "Anacaona No. 7",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/072/Thee+Koukouvaya+-+EICV7-+No.+72+-+01+Anacaona+No.+7.mp3"
+            },
+            {
+                "id": "22a4ec21-63a6-4b78-aaaf-40c0bfef69fb",
+                "title": "Prismatic Sun No. 2",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/072/Thee+Koukouvaya+-+EICV7-+No.+72+-+02+Prismatic+Sun+No.+2.mp3"
+            }
+        ]
+    },
+    {
+        "album": "073",
+        "album_number": 73,
+        "artist": "Miniatures",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/073/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/073/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "03af6318-bc33-4482-8f8d-6f62760af413",
+                "title": "Form Into Soft & Wild",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/073/Miniatures+-+EICV7-+No.+73+-+01+Form+Into+Soft+&+Wild.mp3"
+            },
+            {
+                "id": "03af6318-bc33-4482-8f8d-6f62760af413",
+                "title": "Once Alive Wants",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/073/Miniatures+-+EICV7-+No.+73+-+02+Once+Alive+Wants.mp3"
+            }
+        ]
+    },
+    {
+        "album": "074",
+        "album_number": 74,
+        "artist": "Kalva Won",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "Alice (Lobo Incognito Remix)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Kalva+Won+-+EICV7-+No.+74+-+03+Alice+(Lobo+Incognito+Remix).mp3"
+            },
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "Floating I (Lobo Incognito x Infinity Ghost)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Lobo+Incognito+-+EICV7-+No.+74+-+01+Floating+I+(Lobo+Incognito+x+Infinity+Ghost).mp3"
+            },
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "July (Lobo Incognito x Cicero)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Lobo+Incognito+-+EICV7-+No.+74+-+02+July+(Lobo+Incognito+x+Cicero).mp3"
+            },
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "Subtle Spring",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Lobo+Incognito+-+EICV7-+No.+74+-+04+Subtle+Spring.mp3"
+            },
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "Move The Books Around A Little",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Lobo+Incognito+-+EICV7-+No.+74+-+05+Move+The+Books+Around+A+Little.mp3"
+            },
+            {
+                "id": "895b7afc-84a0-470c-a26b-6dc3e6407128",
+                "title": "Violent Azz Cab Sav",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/074/Lobo+Incognito+-+EICV7-+No.+74+-+06+Violent+Azz+Cab+Sav.mp3"
+            }
+        ]
+    },
+    {
+        "album": "075",
+        "album_number": 75,
+        "artist": "Intimatchine",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "a3c93f15-f458-4a42-8603-fd3a2db4e4d3",
+                "title": "Dome",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/Intimatchine+-+EICV7-+No.+75+-+01+Dome.mp3"
+            },
+            {
+                "id": "a3c93f15-f458-4a42-8603-fd3a2db4e4d3",
+                "title": "Wait For It",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/Intimatchine+-+EICV7-+No.+75+-+02+Wait+For+It.mp3"
+            },
+            {
+                "id": "a3c93f15-f458-4a42-8603-fd3a2db4e4d3",
+                "title": "Faded",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/Intimatchine+-+EICV7-+No.+75+-+03+Faded.mp3"
+            },
+            {
+                "id": "a3c93f15-f458-4a42-8603-fd3a2db4e4d3",
+                "title": "Touched",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/075/Intimatchine+-+EICV7-+No.+75+-+04+Touched.mp3"
+            }
+        ]
+    },
+    {
+        "album": "076",
+        "album_number": 76,
+        "artist": "Teaadora",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/076/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/076/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c9835d3a-5d14-421a-8ee1-a60393bb46f2",
+                "title": "Sure Cut",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/076/Teaadora+-+EICV7-+No.+76+-+01+Sure+Cut.mp3"
+            },
+            {
+                "id": "c9835d3a-5d14-421a-8ee1-a60393bb46f2",
+                "title": "Symbol Of The Empty",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/076/Teaadora+-+EICV7-+No.+76+-+02+Symbol+Of+The+Empty.mp3"
+            }
+        ]
+    },
+    {
+        "album": "077",
+        "album_number": 77,
+        "artist": "DenMother",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "It's Early And Cold",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+01+It's+Early+And+Cold.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "I Don't Know If",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+02+I+Don't+Know+If.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "Water Flows",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+03+Water+Flows.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "Near Or Far",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+04+Near+Or+Far.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "Act Like You Do",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+05+Act+Like+You+Do.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "Time",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+06+Time.mp3"
+            },
+            {
+                "id": "f245d2bf-d475-4aba-bcd3-cd98ef66757d",
+                "title": "Gold",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/077/DenMother+-+EICV7-+No.+77+-+07+Gold.mp3"
+            }
+        ]
+    },
+    {
+        "album": "078",
+        "album_number": 78,
+        "artist": "Dogory Nogami",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Wewon",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+01+Wewon.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Ryclox",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+02+Ryclox.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Nostra",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+03+Nostra.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Xavajo",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+04+Xavajo.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Forklift",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+05+Forklift.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Radon",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+06+Radon.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Xyclon",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+07+Xyclon.mp3"
+            },
+            {
+                "id": "05481c4a-f183-4863-88c5-4bb8730f4211",
+                "title": "Xenon",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/078/Dogory+Nogami+-+EICV7-+No.+78+-+08+Xenon.mp3"
+            }
+        ]
+    },
+    {
+        "album": "079",
+        "album_number": 79,
+        "artist": "Feast Of Violet",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/079/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/079/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "de944846-7498-4297-943e-d69cc454aaa2",
+                "title": "Guard",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/079/Feast+Of+Violet+-+EICV7-+No.+79+-+01+Guard.mp3"
+            },
+            {
+                "id": "de944846-7498-4297-943e-d69cc454aaa2",
+                "title": "Decalquer",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/079/Feast+Of+Violet+-+EICV7-+No.+79+-+02+Decalquer.mp3"
+            },
+            {
+                "id": "de944846-7498-4297-943e-d69cc454aaa2",
+                "title": "Wall",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/079/Feast+Of+Violet+-+EICV7-+No.+79+-+03+Wall.mp3"
+            }
+        ]
+    },
+    {
+        "album": "080",
+        "album_number": 80,
+        "artist": "Ruido",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Cortinas De Humo",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+01+Cortinas+De+Humo.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Dub Sega Roots",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+02+Dub+Sega+Roots.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Flyaying",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+03+Flyaying.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "1956",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+04+1956.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Homz",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+05+Homz.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Round Two",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+06+Round+Two.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "A.R.E. (Ft. Remo Virogha)",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+07+A.R.E.+(Ft.+Remo+Virogha).mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Enchiladas (Ft. Josue Josue)",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+08+Enchiladas+(Ft.+Josue+Josue).mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Flyng Hmms (Ft. Harry Caine In The Beat)",
+                "track_number": 9,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+09+Flyng+Hmms+(Ft.+Harry+Caine+In+The+Beat).mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Fluye",
+                "track_number": 10,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+10+Fluye.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Spill Mario Spatial",
+                "track_number": 11,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+11+Spill+Mario+Spatial.mp3"
+            },
+            {
+                "id": "5d3b836d-18d2-4d67-baa7-b76d06c282e2",
+                "title": "Atisound R-Version (Bonus Track)",
+                "track_number": 12,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/080/Ruido+-+EICV7-+No.+80+-+12+Atisound+R-Version+(Bonus+Track).mp3"
+            }
+        ]
+    },
+    {
+        "album": "081",
+        "album_number": 81,
+        "artist": "Muteboy",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/081/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/081/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "99a476e7-fb37-4e2a-853a-aa2361baab25",
+                "title": "Birdsong",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/081/Muteboy+-+EICV7-+No.+81+-+01+Birdsong.mp3"
+            },
+            {
+                "id": "99a476e7-fb37-4e2a-853a-aa2361baab25",
+                "title": "Windsong",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/081/Muteboy+-+EICV7-+No.+81+-+02+Windsong.mp3"
+            },
+            {
+                "id": "99a476e7-fb37-4e2a-853a-aa2361baab25",
+                "title": "Worksong",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/081/Muteboy+-+EICV7-+No.+81+-+03+Worksong.mp3"
+            }
+        ]
+    },
+    {
+        "album": "082",
+        "album_number": 82,
+        "artist": "Time Travelling Toaster",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "Obisidian Spaceqarium",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+01+Obisidian+Spaceqarium.mp3"
+            },
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "R△w Sp△ce",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+02+R%E2%96%B3w+Sp%E2%96%B3ce.mp3"
+            },
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "Currents Of Beings -Interlude- (Ft. Tokyo Tay)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+03+Currents+Of+Beings+-Interlude-+(Ft.+Tokyo+Tay).mp3"
+            },
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "Intergalactic Girl (Ft. Tokyo Tay)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+04+Intergalactic+Girl+(Ft.+Tokyo+Tay).mp3"
+            },
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "Serenity...",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+05+Serenity....mp3"
+            },
+            {
+                "id": "c0dc6dde-1a0a-4a5f-95f8-9d16e0345ee9",
+                "title": "Calm's Calamity",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/082/Time+Travelling+Toaster+-+EICV7-+No.+82+-+06+Calm's+Calamity.mp3"
+            }
+        ]
+    },
+    {
+        "album": "083",
+        "album_number": 83,
+        "artist": "Craig M Clarke",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "Stop The Boat",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+01+Stop+The+Boat.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "Happiness On The Other Side Of Armageddon",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+02+Happiness+On+The+Other+Side+Of+Armageddon.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "The Kid And The Cobra",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+03+The+Kid+And+The+Cobra.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "Brother Blood",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+04+Brother+Blood.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "Finally, Love With Trust",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+05+Finally,+Love+With+Trust.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "The Witness",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+06+The+Witness.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "What I Wish God Would Say",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+07+What+I+Wish+God+Would+Say.mp3"
+            },
+            {
+                "id": "2154fb8b-ef4d-4c99-a0f2-4a7c4c775123",
+                "title": "Surviving The Cult",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/083/Craig+M+Clarke+-+EICV7-+No.+83+-+08+Surviving+The+Cult.mp3"
+            }
+        ]
+    },
+    {
+        "album": "084",
+        "album_number": 84,
+        "artist": "Rêve x Puce Moment",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/084/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/084/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "619b90cd-5163-43f1-bb4d-f3dc26636fa9",
+                "title": "Oiseau Noir",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/084/Rêve+x+Puce+Moment+-+EICV7-+No.+84+-+01+Oiseau+Noir.mp3"
+            },
+            {
+                "id": "619b90cd-5163-43f1-bb4d-f3dc26636fa9",
+                "title": "Valerie",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/084/Rêve+x+Puce+Moment+-+EICV7-+No.+84+-+02+Valerie.mp3"
+            },
+            {
+                "id": "619b90cd-5163-43f1-bb4d-f3dc26636fa9",
+                "title": "Cosmic Belly -Puce Moment RMX-",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/084/Rêve+x+Puce+Moment+-+EICV7-+No.+84+-+03+Cosmic+Belly+-Puce+Moment+RMX-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "085",
+        "album_number": 85,
+        "artist": "Prettyboy Aloe",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "cae93111-0a18-4692-b8a0-e47ef4f21a6e",
+                "title": "The Time We Share Feels Eternal",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/Prettyboy+Aloe+-+EICV7-+No.+85+-+01+The+Time+We+Share+Feels+Eternal.mp3"
+            },
+            {
+                "id": "cae93111-0a18-4692-b8a0-e47ef4f21a6e",
+                "title": "Comedown Boyz Juke",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/Prettyboy+Aloe+-+EICV7-+No.+85+-+02+Comedown+Boyz+Juke.mp3"
+            },
+            {
+                "id": "cae93111-0a18-4692-b8a0-e47ef4f21a6e",
+                "title": "Serenity (Lil Tofu Bootleg)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/Prettyboy+Aloe+-+EICV7-+No.+85+-+03+Serenity+(Lil+Tofu+Bootleg).mp3"
+            },
+            {
+                "id": "cae93111-0a18-4692-b8a0-e47ef4f21a6e",
+                "title": "Is This Xanax® GMO® Free",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/085/Prettyboy+Aloe+-+EICV7-+No.+85+-+04+Is+This+Xanax®+GMO®+Free.mp3"
+            }
+        ]
+    },
+    {
+        "album": "086",
+        "album_number": 86,
+        "artist": "The Harrow",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/086/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/086/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "8efbb531-1369-4473-b993-de410dda76b9",
+                "title": "Mouth To Mouth",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/086/The+Harrow+-+EICV7-+No.+86+-+01+Mouth+To+Mouth.mp3"
+            },
+            {
+                "id": "8efbb531-1369-4473-b993-de410dda76b9",
+                "title": "Ringing The Changes",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/086/The+Harrow+-+EICV7-+No.+86+-+02+Ringing+The+Changes.mp3"
+            }
+        ]
+    },
+    {
+        "album": "087",
+        "album_number": 87,
+        "artist": "Worm Is Green",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "760cffc9-53c2-49b6-9be9-7421756ff0b9",
+                "title": "Midi Afstyrmi",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/Worm+Is+Green+-+EICV7-+No.+87+-+01+Midi+Afstyrmi.mp3"
+            },
+            {
+                "id": "760cffc9-53c2-49b6-9be9-7421756ff0b9",
+                "title": "These Eyes",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/Worm+Is+Green+-+EICV7-+No.+87+-+02+These+Eyes.mp3"
+            },
+            {
+                "id": "760cffc9-53c2-49b6-9be9-7421756ff0b9",
+                "title": "Lets Just Love My Midi",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/Worm+Is+Green+-+EICV7-+No.+87+-+03+Lets+Just+Love+My+Midi.mp3"
+            },
+            {
+                "id": "760cffc9-53c2-49b6-9be9-7421756ff0b9",
+                "title": "These Chemicals",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/Worm+Is+Green+-+EICV7-+No.+87+-+04+These+Chemicals.mp3"
+            },
+            {
+                "id": "760cffc9-53c2-49b6-9be9-7421756ff0b9",
+                "title": "These Times",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/087/Worm+Is+Green+-+EICV7-+No.+87+-+05+These+Times.mp3"
+            }
+        ]
+    },
+    {
+        "album": "088",
+        "album_number": 88,
+        "artist": "†LOΛΣΓS†",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/088/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/088/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "01413bd3-8b44-443d-89a7-a05e1e2ce551",
+                "title": "H.O.E. (Hell On Earth)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/088/%E2%80%A0LO%CE%9B%CE%A3%CE%93S%E2%80%A0+-+EICV7-+No.+88+-+01+H.O.E.+(Hell+On+Earth).mp3"
+            },
+            {
+                "id": "01413bd3-8b44-443d-89a7-a05e1e2ce551",
+                "title": "See You In The After Life",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/088/%E2%80%A0LO%CE%9B%CE%A3%CE%93S%E2%80%A0+-+EICV7-+No.+88+-+02+See+You+In+The+After+Life.mp3"
+            },
+            {
+                "id": "01413bd3-8b44-443d-89a7-a05e1e2ce551",
+                "title": "Ebola Baby",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/088/%E2%80%A0LO%CE%9B%CE%A3%CE%93S%E2%80%A0+-+EICV7-+No.+88+-+03+Ebola+Baby.mp3"
+            }
+        ]
+    },
+    {
+        "album": "089",
+        "album_number": 89,
+        "artist": "Butterz Choice",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "13a0d26a-a462-4515-80f9-d275393446af",
+                "title": "An Intro Duction To A (I Get Yung ((People))",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/Butterz+Choice+-+EICV7-+No.+89+-+01+An+Intro+Duction+To+A+(I+Get+Yung+((People)).mp3"
+            },
+            {
+                "id": "13a0d26a-a462-4515-80f9-d275393446af",
+                "title": "Somtimes 2",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/Butterz+Choice+-+EICV7-+No.+89+-+02+Somtimes+2.mp3"
+            },
+            {
+                "id": "13a0d26a-a462-4515-80f9-d275393446af",
+                "title": "Ketamine",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/Butterz+Choice+-+EICV7-+No.+89+-+03+Ketamine.mp3"
+            },
+            {
+                "id": "13a0d26a-a462-4515-80f9-d275393446af",
+                "title": "Oh My Days",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/Butterz+Choice+-+EICV7-+No.+89+-+04+Oh+My+Days.mp3"
+            },
+            {
+                "id": "13a0d26a-a462-4515-80f9-d275393446af",
+                "title": "Flemorita",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/089/Butterz+Choice+-+EICV7-+No.+89+-+05+Flemorita.mp3"
+            }
+        ]
+    },
+    {
+        "album": "090",
+        "album_number": 90,
+        "artist": "Chud",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/090/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/090/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "2e273edc-27c7-499e-9254-2aa1344e2a02",
+                "title": "Tolerance (Remix Ft. Great White)",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/090/Chud+-+EICV7-+No.+90+-+01+Tolerance+(Remix+Ft.+Great+White).mp3"
+            },
+            {
+                "id": "2e273edc-27c7-499e-9254-2aa1344e2a02",
+                "title": "I Try",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/090/Chud+-+EICV7-+No.+90+-+02+I+Try.mp3"
+            }
+        ]
+    },
+    {
+        "album": "091",
+        "album_number": 91,
+        "artist": "Non-Human Persons",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/091/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/091/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "73c939f5-7aaf-476d-aa29-5baf7d62ba23",
+                "title": "Shadow",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/091/Non-Human+Persons+-+EICV7-+No.+91+-+01+Shadow.mp3"
+            },
+            {
+                "id": "73c939f5-7aaf-476d-aa29-5baf7d62ba23",
+                "title": "606",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/091/Non-Human+Persons+-+EICV7-+No.+91+-+02+606.mp3"
+            }
+        ]
+    },
+    {
+        "album": "092",
+        "album_number": 92,
+        "artist": "Decohere",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "Sid & Nancy",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+01+Sid+&+Nancy.mp3"
+            },
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "Sid & Nancy (Textbeak Remix)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+02+Sid+&+Nancy+(Textbeak+Remix).mp3"
+            },
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "Sid & Nancy (Fil OK Remix)",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+03+Sid+&+Nancy+(Fil+OK+Remix).mp3"
+            },
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "The Photographer (Feat. Textbeak & Claus Muzak)",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+04+The+Photographer+(Feat.+Textbeak+&+Claus+Muzak).mp3"
+            },
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "Cygnet Fires",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+05+Cygnet+Fires.mp3"
+            },
+            {
+                "id": "31b34f69-a330-4bed-aae9-8ce486684972",
+                "title": "Sid & Nancy (Claus Muzak Who Killed Remix)",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/092/Decohere+-+EICV7-+No.+92+-+06+Sid+&+Nancy+(Claus+Muzak+Who+Killed+Remix).mp3"
+            }
+        ]
+    },
+    {
+        "album": "093",
+        "album_number": 93,
+        "artist": "Halcyon Chamber",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "a8543382-1ef6-432b-8a0d-70e7ca67f6e9",
+                "title": "Parallels",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/Halcyon+Chamber+-+EICV7-+No.+93+-+01+Parallels.mp3"
+            },
+            {
+                "id": "a8543382-1ef6-432b-8a0d-70e7ca67f6e9",
+                "title": "Coalition Of Circuitry",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/Halcyon+Chamber+-+EICV7-+No.+93+-+02+Coalition+Of+Circuitry.mp3"
+            },
+            {
+                "id": "a8543382-1ef6-432b-8a0d-70e7ca67f6e9",
+                "title": "Phosphene Dream",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/Halcyon+Chamber+-+EICV7-+No.+93+-+03+Phosphene+Dream.mp3"
+            },
+            {
+                "id": "a8543382-1ef6-432b-8a0d-70e7ca67f6e9",
+                "title": "The Space Between Words",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/093/Halcyon+Chamber+-+EICV7-+No.+93+-+04+The+Space+Between+Words.mp3"
+            }
+        ]
+    },
+    {
+        "album": "094",
+        "album_number": 94,
+        "artist": "Xunholm",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "A Debt The Night Must Pay",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+01+A+Debt+The+Night+Must+Pay.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Transcribeth",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+02+Transcribeth.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Through Hexagonal Southlands",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+03+Through+Hexagonal+Southlands.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Smaragdus",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+04+Smaragdus.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Haunting Mirrored Gateways",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+05+Haunting+Mirrored+Gateways.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Slumbering Riftwalker",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+06+Slumbering+Riftwalker.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "A Dreamless Night Dawning",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+07+A+Dreamless+Night+Dawning.mp3"
+            },
+            {
+                "id": "e1ef0e46-51fe-448d-8f82-9a20da1e8710",
+                "title": "Haunting Mirrored Gateways (Bonus Instrumental Ver",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/094/Xunholm+-+EICV7-+No.+94+-+08+Haunting+Mirrored+Gateways+(Bonus+Instrumental+Version).mp3"
+            }
+        ]
+    },
+    {
+        "album": "095",
+        "album_number": 95,
+        "artist": "Synesect",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/095/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/095/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "eba60bdc-bc05-46c4-b503-9f9e7b2327fd",
+                "title": "The Lovers",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/095/Synesect+-+EICV7-+No.+95+-+01+The+Lovers.mp3"
+            },
+            {
+                "id": "eba60bdc-bc05-46c4-b503-9f9e7b2327fd",
+                "title": "Corridors",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/095/Synesect+-+EICV7-+No.+95+-+02+Corridors.mp3"
+            },
+            {
+                "id": "eba60bdc-bc05-46c4-b503-9f9e7b2327fd",
+                "title": "Heat",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/095/Synesect+-+EICV7-+No.+95+-+03+Heat.mp3"
+            }
+        ]
+    },
+    {
+        "album": "096",
+        "album_number": 96,
+        "artist": "Ando Laj",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "57029067-bdf8-4192-8ae5-fba0f0c3e0ee",
+                "title": "Templar",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/Ando+Laj+-+EICV7-+No.+96+-+01+Templar.mp3"
+            },
+            {
+                "id": "57029067-bdf8-4192-8ae5-fba0f0c3e0ee",
+                "title": "88 (22)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/Ando+Laj+-+EICV7-+No.+96+-+02+88+(22).mp3"
+            },
+            {
+                "id": "57029067-bdf8-4192-8ae5-fba0f0c3e0ee",
+                "title": "Industr",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/Ando+Laj+-+EICV7-+No.+96+-+03+Industr.mp3"
+            },
+            {
+                "id": "57029067-bdf8-4192-8ae5-fba0f0c3e0ee",
+                "title": "REM",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/096/Ando+Laj+-+EICV7-+No.+96+-+04+REM.mp3"
+            }
+        ]
+    },
+    {
+        "album": "097",
+        "album_number": 97,
+        "artist": "Midnite Tiger",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/097/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/097/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f986523f-aaa4-417f-adc3-685ee8336f7a",
+                "title": "Walking Shadow",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/097/Midnite+Tiger+-+EICV7-+No.+97+-+01+Walking+Shadow.mp3"
+            },
+            {
+                "id": "f986523f-aaa4-417f-adc3-685ee8336f7a",
+                "title": "Peregrine",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/097/Midnite+Tiger+-+EICV7-+No.+97+-+02+Peregrine.mp3"
+            },
+            {
+                "id": "f986523f-aaa4-417f-adc3-685ee8336f7a",
+                "title": "Butterflavor",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/097/Midnite+Tiger+-+EICV7-+No.+97+-+03+Butterflavor.mp3"
+            }
+        ]
+    },
+    {
+        "album": "098",
+        "album_number": 98,
+        "artist": "TimHeld",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "32193683-f5f8-4e46-a650-a4965c2031ee",
+                "title": "Maxwell",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/TimHeld+-+EICV7-+No.+98+-+01+Maxwell.mp3"
+            },
+            {
+                "id": "32193683-f5f8-4e46-a650-a4965c2031ee",
+                "title": "Barbed",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/TimHeld+-+EICV7-+No.+98+-+02+Barbed.mp3"
+            },
+            {
+                "id": "32193683-f5f8-4e46-a650-a4965c2031ee",
+                "title": "Barbed Hook",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/TimHeld+-+EICV7-+No.+98+-+03+Barbed+Hook.mp3"
+            },
+            {
+                "id": "32193683-f5f8-4e46-a650-a4965c2031ee",
+                "title": "Distance",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/TimHeld+-+EICV7-+No.+98+-+04+Distance.mp3"
+            },
+            {
+                "id": "32193683-f5f8-4e46-a650-a4965c2031ee",
+                "title": "Black Friday",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/098/TimHeld+-+EICV7-+No.+98+-+05+Black+Friday.mp3"
+            }
+        ]
+    },
+    {
+        "album": "099",
+        "album_number": 99,
+        "artist": "Renjā",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Aisa",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+01+Aisa.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Memories",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+02+Memories.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Never Sleep",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+03+Never+Sleep.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Tasukete",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+04+Tasukete.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Kaisō",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+05+Kais%C5%8D.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Express",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+06+Express.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Kanjō",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+07+Kanj%C5%8D.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Need You Tonight",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+08+Need+You+Tonight.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Sounds Of Wonderment",
+                "track_number": 9,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+09+Sounds+Of+Wonderment.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Daria",
+                "track_number": 10,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+10+Daria.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Densetsu",
+                "track_number": 11,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+11+Densetsu.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "I Will Make You Dream",
+                "track_number": 12,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+12+I+Will+Make+You+Dream.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Voices In My Head",
+                "track_number": 14,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+14+Voices+In+My+Head.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Lust For The Screen",
+                "track_number": 15,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+15+Lust+For+The+Screen.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Hātsu",
+                "track_number": 16,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+16+H%C4%81tsu.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Shi",
+                "track_number": 17,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+17+Shi.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Dreams Of Her",
+                "track_number": 18,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+18+Dreams+Of+Her.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "You And I",
+                "track_number": 20,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+20+You+And+I.mp3"
+            },
+            {
+                "id": "19abce36-5add-4962-9b2e-8456bbbd67e9",
+                "title": "Last Hello",
+                "track_number": 21,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/099/Renj%C4%81+-+EICV7-+No.+99+-+21+Last+Hello.mp3"
+            }
+        ]
+    },
+    {
+        "album": "100",
+        "album_number": 100,
+        "artist": "Múshhh",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "(I.) If I Read Our Story Backwards",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+01+(I.)+If+I+Read+Our+Story+Backwards.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Not Seeing, Something More Like A Feeling",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+02+Not+Seeing,+Something+More+Like+A+Feeling.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "But Even In Her Laughter There Was Something Missi",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+03+But+Even+In+Her+Laughter+There+Was+Something+Missing.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Looking For What I Concealed In My Secret Drawer",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+04+Looking+For+What+I+Concealed+In+My+Secret+Drawer.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "From My Rotting Body, Flowers Shall Grow",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+05+From+My+Rotting+Body,+Flowers+Shall+Grow.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Shortcuts Made Beautiful",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+06+Shortcuts+Made+Beautiful.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Fractured Fairy Tales",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+07+Fractured+Fairy+Tales.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Sunken Ships",
+                "track_number": 8,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+08+Sunken+Ships.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "(II.) Under Wildwood",
+                "track_number": 9,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+09+(II.)+Under+Wildwood.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Loom In The Leaf Filtered Gloom",
+                "track_number": 10,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+10+Loom+In+The+Leaf+Filtered+Gloom.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Needling Spume Down From The Wires",
+                "track_number": 11,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+11+Needling+Spume+Down+From+The+Wires.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Woodsmoke And A Distant Loudspeaker",
+                "track_number": 12,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+12+Woodsmoke+And+A+Distant+Loudspeaker.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Build Over The Dead Bodies",
+                "track_number": 13,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+13+Build+Over+The+Dead+Bodies.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "The Lamp Lit Row Of Houses",
+                "track_number": 14,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+14+The+Lamp+Lit+Row+Of+Houses.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "(III-) Careful What You Say Next -BONUS TRACK-",
+                "track_number": 15,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+15+(III-)+Careful+What+You+Say+Next+-BONUS+TRACK-.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "These Walls Are Closing In -BONUS TRACK-",
+                "track_number": 16,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+16+These+Walls+Are+Closing+In+-BONUS+TRACK-.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Fractured Fairy Tales (Docile Demo) -BONUS TRACK-",
+                "track_number": 17,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+17+Fractured+Fairy+Tales+(Docile+Demo)+-BONUS+TRACK-.mp3"
+            },
+            {
+                "id": "5afda176-3d27-47ed-9dbd-4705b64b5f3c",
+                "title": "Black Poppies -BONUS TRACK-",
+                "track_number": 18,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/100/Múshhh+-+EICV7-+No.+100+-+18+Black+Poppies+-BONUS+TRACK-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "101",
+        "album_number": 101,
+        "artist": "Late Night Jazz",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/101/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/101/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "47e96bd7-2b8f-41fb-9eec-289c142a67aa",
+                "title": "Annie",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/101/Late+Night+Jazz+-+EICV7-+No.+101+-+01+Annie.mp3"
+            },
+            {
+                "id": "47e96bd7-2b8f-41fb-9eec-289c142a67aa",
+                "title": "Light Wall (Ft. Annemarie Duffy)",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/101/Late+Night+Jazz+-+EICV7-+No.+101+-+02+Light+Wall+(Ft.+Annemarie+Duffy).mp3"
+            }
+        ]
+    },
+    {
+        "album": "102",
+        "album_number": 102,
+        "artist": "Perfume Garden",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/102/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/102/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "ee0fc5a0-2afc-4878-921c-67b9207d5e58",
+                "title": "Dream Overlay",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/102/Perfume+Garden+-+EICV7-+No.+102+-+01+Dream+Overlay.mp3"
+            },
+            {
+                "id": "ee0fc5a0-2afc-4878-921c-67b9207d5e58",
+                "title": "Slow Light",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/102/Perfume+Garden+-+EICV7-+No.+102+-+02+Slow+Light.mp3"
+            }
+        ]
+    },
+    {
+        "album": "103",
+        "album_number": 103,
+        "artist": "Betama",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "ada03527-4c04-4f34-acab-1743fc453fd0",
+                "title": "MMM",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/Betama+-+EICV7-+No.+103+-+01+MMM.mp3"
+            },
+            {
+                "id": "ada03527-4c04-4f34-acab-1743fc453fd0",
+                "title": "Yamamoto",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/Betama+-+EICV7-+No.+103+-+02+Yamamoto.mp3"
+            },
+            {
+                "id": "ada03527-4c04-4f34-acab-1743fc453fd0",
+                "title": "Digital Crucifix",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/Betama+-+EICV7-+No.+103+-+03+Digital+Crucifix.mp3"
+            },
+            {
+                "id": "ada03527-4c04-4f34-acab-1743fc453fd0",
+                "title": "Lifeforms -Saint Laurent Mix-",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/Betama+-+EICV7-+No.+103+-+04+Lifeforms+-Saint+Laurent+Mix-.mp3"
+            },
+            {
+                "id": "ada03527-4c04-4f34-acab-1743fc453fd0",
+                "title": "Saint Victorian -McQueen Mix-",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/103/Betama+-+EICV7-+No.+103+-+05+Saint+Victorian+-McQueen+Mix-.mp3"
+            }
+        ]
+    },
+    {
+        "album": "104",
+        "album_number": 104,
+        "artist": "Matthew Collings",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "71975ff2-81a0-4754-9741-1f0314ab906f",
+                "title": "Paris Accordions",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/Matthew+Collings+-+EICV7-+No.+104+-+01+Paris+Accordions.mp3"
+            },
+            {
+                "id": "71975ff2-81a0-4754-9741-1f0314ab906f",
+                "title": "The Ballroom",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/Matthew+Collings+-+EICV7-+No.+104+-+02+The+Ballroom.mp3"
+            },
+            {
+                "id": "71975ff2-81a0-4754-9741-1f0314ab906f",
+                "title": "Point",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/Matthew+Collings+-+EICV7-+No.+104+-+03+Point.mp3"
+            },
+            {
+                "id": "71975ff2-81a0-4754-9741-1f0314ab906f",
+                "title": "Like You Never Had Wings",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/Matthew+Collings+-+EICV7-+No.+104+-+04+Like+You+Never+Had+Wings.mp3"
+            },
+            {
+                "id": "71975ff2-81a0-4754-9741-1f0314ab906f",
+                "title": "A Smashed Up World",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/104/Matthew+Collings+-+EICV7-+No.+104+-+05+A+Smashed+Up+World.mp3"
+            }
+        ]
+    },
+    {
+        "album": "105",
+        "album_number": 105,
+        "artist": "Grey Economie",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/105/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/105/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "b5c196b3-3be0-498a-ac38-b6c82037ac90",
+                "title": "Regularly Scheduled Nostalgia",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/105/Grey+Economie+-+EICV7-+No.+105+-+01+Regularly+Scheduled+Nostalgia.mp3"
+            },
+            {
+                "id": "b5c196b3-3be0-498a-ac38-b6c82037ac90",
+                "title": "High Sea",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/105/Grey+Economie+-+EICV7-+No.+105+-+02+High+Sea.mp3"
+            },
+            {
+                "id": "b5c196b3-3be0-498a-ac38-b6c82037ac90",
+                "title": "Postgreenneogeoengineering",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/105/Grey+Economie+-+EICV7-+No.+105+-+03+Postgreenneogeoengineering.mp3"
+            }
+        ]
+    },
+    {
+        "album": "106",
+        "album_number": 106,
+        "artist": "Sob Story",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "f472efb3-b2fe-4e83-8ee3-2ac0ec4e1fdb",
+                "title": "Miss Fuyutsuki",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/Sob+Story+-+EICV7-+No.+106+-+01+Miss+Fuyutsuki.mp3"
+            },
+            {
+                "id": "f472efb3-b2fe-4e83-8ee3-2ac0ec4e1fdb",
+                "title": "Hikikomori",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/Sob+Story+-+EICV7-+No.+106+-+02+Hikikomori.mp3"
+            },
+            {
+                "id": "f472efb3-b2fe-4e83-8ee3-2ac0ec4e1fdb",
+                "title": "Aspartame",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/Sob+Story+-+EICV7-+No.+106+-+03+Aspartame.mp3"
+            },
+            {
+                "id": "f472efb3-b2fe-4e83-8ee3-2ac0ec4e1fdb",
+                "title": "Fan Mail",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/106/Sob+Story+-+EICV7-+No.+106+-+04+Fan+Mail.mp3"
+            }
+        ]
+    },
+    {
+        "album": "107",
+        "album_number": 107,
+        "artist": "Eyes Behind The Veil",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/107/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/107/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "c51a9c17-3216-4506-8308-f3545e2cd6bd",
+                "title": "Tall Dog Strut",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/107/Eyes+Behind+The+Veil+-+EICV7-+No.+107+-+01+Tall+Dog+Strut.mp3"
+            },
+            {
+                "id": "c51a9c17-3216-4506-8308-f3545e2cd6bd",
+                "title": "Squid Hands",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/107/Eyes+Behind+The+Veil+-+EICV7-+No.+107+-+02+Squid+Hands.mp3"
+            },
+            {
+                "id": "c51a9c17-3216-4506-8308-f3545e2cd6bd",
+                "title": "Raining Pearls",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/107/Eyes+Behind+The+Veil+-+EICV7-+No.+107+-+03+Raining+Pearls.mp3"
+            }
+        ]
+    },
+    {
+        "album": "108",
+        "album_number": 108,
+        "artist": "Toothless",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/108/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/108/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "08696a4b-90ed-4ab5-986a-71602c0c552f",
+                "title": "Half You Half Me",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/108/Toothless+-+EICV7-+No.+108+-+01+Half+You+Half+Me.mp3"
+            },
+            {
+                "id": "08696a4b-90ed-4ab5-986a-71602c0c552f",
+                "title": "Lazy Afternoon",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/108/Toothless+-+EICV7-+No.+108+-+02+Lazy+Afternoon.mp3"
+            },
+            {
+                "id": "08696a4b-90ed-4ab5-986a-71602c0c552f",
+                "title": "My Island",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/108/Toothless+-+EICV7-+No.+108+-+03+My+Island.mp3"
+            }
+        ]
+    },
+    {
+        "album": "109",
+        "album_number": 109,
+        "artist": "Robot Speaker",
+        "cover": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/cover.jpg",
+        "genre": null,
+        "thumbnail": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/thumbnail.jpg",
+        "tracks": [
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Cosmic Tennis",
+                "track_number": 1,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+01+Cosmic+Tennis.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Space Signal",
+                "track_number": 2,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+02+Space+Signal.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Kaleidoscope Echo",
+                "track_number": 3,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+03+Kaleidoscope+Echo.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Sunset Room",
+                "track_number": 4,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+04+Sunset+Room.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Honymoon Life",
+                "track_number": 5,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+05+Honymoon+Life.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Mid Night Walking",
+                "track_number": 6,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+06+Mid+Night+Walking.mp3"
+            },
+            {
+                "id": "23da5511-6230-4901-93dd-d1ae02513798",
+                "title": "Drop And Drum",
+                "track_number": 7,
+                "url": "https://s3-us-west-2.amazonaws.com/everythingischemical/static/music/albums/109/Robot+Speaker+-+EICV7-+No.+109+-+07+Drop+And+Drum.mp3"
+            }
+        ]
+    }
+]
