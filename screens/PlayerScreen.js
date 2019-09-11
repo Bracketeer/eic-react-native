@@ -11,33 +11,41 @@ import { Video } from 'expo-av';
 class PlayerScreen extends React.Component {
     constructor(props) {
         super(props)
+        this.playerMinimized = this.props.playerMinimized;
         this.state = {
-            paused: false,
+            paused: true,
             totalLength: 1,
             currentPosition: 0,
-            selectedTrack: this.props.trackIndex,
+            queue: this.props.queue,
+            currentTrackIndex: this.props.queueIndex,
+            currentTrack: this.props.queue[0],
             repeatOn: false,
             shuffleOn: false,
             pan: new Animated.ValueXY(),
             playerMinimized: false,
         };
+        const { height } = Dimensions.get('window');
         this.panResponder = PanResponder.create({
             onStartShouldSetPanResponder: () => true,
-            onPanResponderMove: Animated.event([null, {
-                dy: this.state.pan.y
-            }]),
+            onPanResponderMove: (event, guesture) => {
+                if ((this.state.playerMinimized && guesture.dy < 0) || !this.state.playerMinimized && guesture.dy > 0) {
+                    Animated.event([null, {
+                        dy: this.state.pan.y
+                    },])(event, guesture)
+                }
+            },
+            onResponderTerminationRequest: () => false,
             onPanResponderGrant: (e, gestureState) => {
                 this.state.pan.setOffset({ x: this.state.pan.x._value, y: this.state.pan.y._value });
                 this.state.pan.setValue({ x: 0, y: 0 });
             },
             onPanResponderRelease: (event, gesture) => {
-                const { height } = Dimensions.get('window');
                 this.state.pan.flattenOffset();
                 if (gesture.dy < -100) {
                     this.setState({playerMinimized: false})
                     Animated.spring(
                         this.state.pan,
-                        { toValue: { x: 0, y: 0 }, tension: 20, velocity: .5 }
+                        { toValue: { x: 0, y: 0 }, tension: 40, velocity: .5, overshootClamping: true }
                     ).start();
                 }
                 else
@@ -45,29 +53,27 @@ class PlayerScreen extends React.Component {
                     this.setState({playerMinimized: true})
                     Animated.spring(
                         this.state.pan,
-                        { toValue: { x: 0, y: height - 72 }, tension: 20, velocity: .5 }
+                        { toValue: { x: 0, y: height - 72 }, tension: 40, velocity: .5, overshootClamping: true }
                     ).start();
                 } else {
                     if (this.state.playerMinimized) {
                         Animated.spring(
                             this.state.pan,
-                            { toValue: { x: 0, y: height - 72 }, tension: 20, velocity: .5 }
+                            { toValue: { x: 0, y: height - 72 }, tension: 40, velocity: .5, overshootClamping: true }
                         ).start();
                     } else {
                         Animated.spring(
                             this.state.pan,
-                            { toValue: { x: 0, y: 0 }, tension: 20, velocity: .5 }
+                            { toValue: { x: 0, y: 0 }, tension: 20, velocity: .5, overshootClamping: true }
                         ).start();
                     }
                 }
             }
         });
     }
-    album = this.props.album;
-    track = this.props.track;
-    trackIndex = this.props.trackIndex;
-    playerMinimized = this.props.playerMinimized;
-
+    componentWillReceiveProps({ queue, queueIndex }) {
+        this.setState({ queue: queue, currentTrackIndex: queueIndex })
+    }
     setDuration(data) {
         if (data.durationMillis) {
             this.setState({ totalLength: Math.floor(data.durationMillis) });
@@ -90,7 +96,7 @@ class PlayerScreen extends React.Component {
     }
 
     onBack() {
-        if (this.state.currentPosition < 10 && this.state.selectedTrack > 0) {
+        if (this.state.currentPosition < 10 && this.state.currentTrackIndex > 0) {
             this.refs.audioElement && this.refs.audioElement.setPositionAsync(0);
             this.setState({ isChanging: true });
             setTimeout(() => this.setState({
@@ -98,8 +104,10 @@ class PlayerScreen extends React.Component {
                 paused: false,
                 totalLength: 1,
                 isChanging: false,
-                selectedTrack: this.state.selectedTrack - 1,
+                currentTrackIndex: this.state.currentTrackIndex - 1,
+                currentTrack: this.state.queue[this.state.currentTrackIndex - 1]
             }), 0);
+            this.props.onTrackChange(this.state.currentTrackIndex)
         } else {
             this.refs.audioElement.setPositionAsync(0);
             this.setState({
@@ -117,7 +125,7 @@ class PlayerScreen extends React.Component {
         }
     }
     onForward() {
-        if (this.state.selectedTrack < this.album.tracks.length - 1) {
+        if (this.state.currentTrackIndex < this.state.queue.length - 1) {
             this.refs.audioElement && this.refs.audioElement.setPositionAsync(0);
             this.setState({ isChanging: true });
             setTimeout(() => this.setState({
@@ -125,15 +133,17 @@ class PlayerScreen extends React.Component {
                 totalLength: 1,
                 paused: false,
                 isChanging: false,
-                selectedTrack: this.state.selectedTrack + 1,
+                currentTrackIndex: this.state.currentTrackIndex + 1,
+                currentTrack: this.state.queue[this.state.currentTrackIndex + 1]
             }), 0);
+            this.props.onTrackChange(this.state.currentTrackIndex)  
         } else {
             this.refs.audioElement.pauseAsync();
         }
     }
     manageQueue(data) {
         if (data.didJustFinish) {
-            if (this.state.selectedTrack < this.album.tracks.length - 1) {
+            if (this.state.currentTrackIndex < this.state.queue.length - 1) {
                 this.onForward();
             } else {
                 this.setState({paused: true})
@@ -146,7 +156,7 @@ class PlayerScreen extends React.Component {
         this.setTime(data)
     }
     render() {
-        const track = this.album.tracks[this.state.selectedTrack];
+        const track = this.state.currentTrack;
         const video = this.state.isChanging ? null : (
             <Video
                 source={{ uri: track.url }}
@@ -165,18 +175,16 @@ class PlayerScreen extends React.Component {
                 style={[styles.container, this.state.pan.getLayout()]}>
                 <Header
                     playerMinimized={this.state.playerMinimized}
-                    message={this.album.tracks[this.state.selectedTrack].title}
+                    message={this.state.currentTrack.title}
                     onDownPress={() => this.navigation.navigate('Home')}
                     onMessagePress={() => { }}
                     onQueuePress={() => { }} />
-                <View style={{backgroundColor: 'rgba(0,0,0,.9)', flex: 1}}>
-
-                
+                <View style={{backgroundColor: 'rgba(0,0,0,1)', flex: 1}}>
                     <AlbumArt
-                        album={this.album} {...this.props} />
+                        album={this.state.currentTrack} {...this.props} />
                     <TrackDetails
-                        title={this.album.tracks[this.state.selectedTrack].title}
-                        artist={this.album.artist}
+                        title={this.state.currentTrack.title}
+                        artist={this.state.currentTrack.artist}
                         onAddPress={() => { }}
                         onMorePress={() => { }}
                         onTitlePress={() => { }}
@@ -190,8 +198,7 @@ class PlayerScreen extends React.Component {
                         onPressRepeat={() => this.setState({ repeatOn: !this.state.repeatOn })}
                         repeatOn={this.state.repeatOn}
                         shuffleOn={this.state.shuffleOn}
-                        backDisabled={this.state.selectedTrack === 0}
-                        forwardDisabled={this.state.selectedTrack === this.album.tracks.length - 1}
+                        forwardDisabled={this.state.currentTrackIndex === this.state.queue.length - 1}
                         onPressShuffle={() => this.setState({ shuffleOn: !this.state.shuffleOn })}
                         onPressPlay={() => this.playPauseInstance()}
                         onPressPause={() => this.playPauseInstance()}
@@ -214,6 +221,7 @@ const styles = StyleSheet.create({
         left: 0,
         right: 0,
         top: 0,
+        zIndex: 10
     },
     audioElement: {
         height: 0,

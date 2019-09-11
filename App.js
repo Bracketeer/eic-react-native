@@ -40,6 +40,11 @@ async function loadResourcesAsync() {
       // We include SpaceMono because we use it in HomeScreen.js. Feel free to
       // remove this if you are not using it in your app
       'space-mono': require('./assets/fonts/SpaceMono-Regular.ttf'),
+      'anonymous-pro': require('./assets/fonts/Anonymous_Pro/AnonymousPro-Regular.ttf'),
+      'anonymous-pro-bold': require('./assets/fonts/Anonymous_Pro/AnonymousPro-Bold.ttf'),
+      'anonymous-pro-bold-italic': require('./assets/fonts/Anonymous_Pro/AnonymousPro-BoldItalic.ttf'),
+      'jaldi': require('./assets/fonts/Jaldi/Jaldi-Regular.ttf'),
+      'jaldi-bold': require('./assets/fonts/Jaldi/Jaldi-Bold.ttf'),
     }),
   ]);
 }

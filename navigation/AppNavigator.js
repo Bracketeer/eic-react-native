@@ -5,6 +5,7 @@ import MainTabNavigator from './MainTabNavigator';
 import { AlbumScreen } from '../screens/AlbumScreen';
 import { HomeScreen } from '../screens/HomeScreen';
 import { PlayerScreen } from '../screens/PlayerScreen';
+import { QueueScreen } from '../screens/QueueScreen';
 
 export default createAppContainer(
   createSwitchNavigator({
@@ -14,5 +15,6 @@ export default createAppContainer(
     Home: HomeScreen,
     AlbumScreen: AlbumScreen,
     PlayerScreen: PlayerScreen,
+    QueueScreen: QueueScreen,
   })
 );

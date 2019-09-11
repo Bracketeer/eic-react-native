@@ -9,12 +9,13 @@ import {
   View,
   Animated,
   PanResponder,
-  Dimensions
+  Dimensions,
+  Text
 } from 'react-native';
 import { SearchBar } from '../components/SearchBar';
 import { Album } from '../components/Album';
 import { PlayerScreen } from './PlayerScreen.js';
-import { TouchableNativeFeedback } from 'react-native-gesture-handler';
+import {QueueScreen }from './QueueScreen.js';
 
 const Albums = (props) => {
   return (
@@ -33,6 +34,15 @@ export class HomeScreen extends React.Component {
     this.state = {
       pan: new Animated.ValueXY(),
       playerMinimized: false,
+      queue: [],
+      queueIndex: 0,
+      currentTrack: {
+        cover: null,
+        track: null,
+        artist: null,
+        album: null,
+        url: null
+      }
     }
     this.panResponder = PanResponder.create({
       onStartShouldSetPanResponder: () => true,
@@ -44,7 +54,6 @@ export class HomeScreen extends React.Component {
         this.state.pan.setValue({ x: 0, y: 0 });
       },
       onPanResponderRelease: (event, gesture) => {
-        // console.log(event)
         const { height } = Dimensions.get('window');
         this.state.pan.flattenOffset();
         if (gesture.dy < -100) {
@@ -62,24 +71,52 @@ export class HomeScreen extends React.Component {
         }
     });
   }
+  replaceQueue(tracks) {
+    this.setState({ queue: tracks, queueIndex: 0 })
+  }
+  playNext(tracks) {
+    const pastQueue = this.state.queue.filter((track, index) => index <= this.state.queueIndex);
+    const futureQueue = this.state.queue.filter((track, index) => index > this.state.queueIndex );
+    this.setState({ queue: [...pastQueue, ...tracks, ...futureQueue]})
+  }
+  addToQueue(tracks) {
+    this.setState({ queue: [...this.state.queue, ...tracks] })
+  }
   render() {
     return (
       <View style={styles.container}>
+        <View style={{height: 32, width: '100%'}}></View>
+        {/* <SearchBar /> */}
+        {this.state.queue.length > 0 ? (
+          <QueueScreen
+            queue={this.state.queue}
+            queueIndex={this.state.queueIndex}
+            changeTrack={(event, trackIndex) => this.setState({ currentTrack: this.state.queue[trackIndex], queueIndex: trackIndex })}
+            {...this.props} />) : null
+        }
         <ScrollView
           style={styles.container}
           contentContainerStyle={styles.contentContainer}>
           <Image
-            style={{ width: '100%' }}
+            style={styles.headerImage}
             resizeMode={'contain'}
             source={require('../assets/images/eic.png')} />
-          <SearchBar />
-          <Albums {...this.props} />
+          <Text style={styles.headerText}>
+            EICV7"
+          </Text>
+          <Albums
+            onReplaceQueue={(event, tracks) => this.replaceQueue(tracks)}
+            onPlayNext={(event, tracks) => this.playNext(tracks)}
+            onAddToQueue={(event, tracks) => this.addToQueue(tracks)}
+            {...this.props} />
         </ScrollView>
-        <PlayerScreen
-          album={AlbumData[0]}
-          track={AlbumData[0].tracks[0]}
-          trackIndex={0}
-          {...this.props} />
+        {this.state.queue.length > 0 ? (
+          <PlayerScreen
+            queueIndex={this.state.queueIndex}
+            onTrackChange={(currentTrackIndex) => this.setState({queueIndex: currentTrackIndex})}
+            queue={this.state.queue}
+            {...this.props} />
+          ) : null}
       </View>
     );
   }
@@ -95,49 +132,23 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap'
   },
+  headerText: {
+    textAlign: 'center',
+    fontSize: 30,
+    color: '#fff',
+    marginBottom: 30,
+    fontFamily: 'jaldi'
+  },
+  headerImage: {
+    width: '100%',
+    resizeMode: 'contain'
+  },
   container: {
     flex: 1,
     backgroundColor: '#000',
   },  
-  developmentModeText: {
-    marginBottom: 20,
-    color: 'rgba(0,0,0,0.4)',
-    fontSize: 14,
-    lineHeight: 19,
-    textAlign: 'center',
-  },
-  welcomeContainer: {
-    alignItems: 'center',
-    marginTop: 10,
-    marginBottom: 20,
-  },
-  welcomeImage: {
-    width: 100,
-    height: 80,
-    resizeMode: 'contain',
-    marginTop: 3,
-    marginLeft: -10,
-  },
-  getStartedContainer: {
-    alignItems: 'center',
-    marginHorizontal: 50,
-  },
   homeScreenFilename: {
     marginVertical: 7,
-  },
-  codeHighlightText: {
-    color: 'rgba(96,100,109, 0.8)',
-  },
-  codeHighlightContainer: {
-    backgroundColor: 'rgba(0,0,0,0.05)',
-    borderRadius: 3,
-    paddingHorizontal: 4,
-  },
-  getStartedText: {
-    fontSize: 17,
-    color: 'rgba(96,100,109, 1)',
-    lineHeight: 24,
-    textAlign: 'center',
   },
   tabBarInfoContainer: {
     position: 'absolute',
@@ -159,24 +170,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#000',
     paddingVertical: 20,
   },
-  tabBarInfoText: {
-    fontSize: 17,
-    color: 'rgba(96,100,109, 1)',
-    textAlign: 'center',
-    color: 'orange'
-  },
   navigationFilename: {
     marginTop: 5,
-  },
-  helpContainer: {
-    marginTop: 15,
-    alignItems: 'center',
-  },
-  helpLink: {
-    paddingVertical: 15,
-  },
-  helpLinkText: {
-    fontSize: 14,
-    color: '#2e78b7',
   },
 });

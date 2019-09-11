@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet, Image, TouchableNativeFeedback } from 'react-native';
+import { View, StyleSheet, Image, Dimensions } from 'react-native';
 
 export default AlbumArt = (props) => {
     return (
@@ -7,15 +7,15 @@ export default AlbumArt = (props) => {
             <Image style={styles.albumArt} source={{ uri: props.album.cover }}></Image>
         </View>
     )};
-
+const { width } = Dimensions.get('window');
 const styles = StyleSheet.create({
     container: {
     },
     albumArt: {
         padding: 20,
         margin: 20,
-        width: 380,
-        height: 380,
+        width: width - 40,
+        height: width - 40,
         resizeMode: 'contain',
         borderRadius: 5,
     }
