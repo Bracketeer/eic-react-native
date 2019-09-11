@@ -72,7 +72,10 @@ class PlayerScreen extends React.Component {
         });
     }
     componentWillReceiveProps({ queue, queueIndex }) {
-        this.setState({ queue: queue, currentTrackIndex: queueIndex })
+        this.setState({ queue: queue, currentTrackIndex: queueIndex, currentTrack: queue[queueIndex] })
+    }
+    setCurrentTrack(track) {
+        
     }
     setDuration(data) {
         if (data.durationMillis) {

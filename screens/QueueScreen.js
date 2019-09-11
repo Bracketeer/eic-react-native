@@ -3,10 +3,7 @@ import { View, Animated, PanResponder, Dimensions, ScrollView, StyleSheet, Text 
 import Track from '../components/Queue/Track';
 import { TouchableHighlight } from 'react-native-gesture-handler';
 const { width, height } = Dimensions.get('window');
-console.log(height, width)
-const animationConfig = {
-    tension: 70, velocity: .5, overshootClamping: true
-}
+
 export class QueueScreen extends React.Component {
     constructor(props) {
         super(props);
@@ -16,8 +13,14 @@ export class QueueScreen extends React.Component {
             queueHidden: false,
             pan: new Animated.ValueXY(),
         }
+        const touchThreshold = 30;
         this.panResponder = PanResponder.create({
-            onStartShouldSetPanResponder: () => true,
+            onStartShouldSetPanResponder: () => false,
+            onMoveShouldSetPanResponder: (e, gestureState) => {
+                const { dx } = gestureState;
+
+                return (Math.abs(dx) > touchThreshold);
+            },
             onPanResponderMove: (event, guesture) => {
                 if ((this.state.queueHidden && guesture.dx < 0) || !this.state.queueHidden && guesture.dx > 0) {
                     Animated.event([null, {
