@@ -36,6 +36,7 @@ export class HomeScreen extends React.Component {
       playerMinimized: false,
       queue: [],
       queueIndex: 0,
+      queueHidden: null,
       currentTrack: {
         cover: null,
         track: null,
@@ -44,32 +45,6 @@ export class HomeScreen extends React.Component {
         url: null
       }
     }
-    this.panResponder = PanResponder.create({
-      onStartShouldSetPanResponder: () => true,
-      onPanResponderMove: Animated.event([null, {
-        dy: this.state.pan.y
-      }]),
-      onPanResponderGrant: (e, gestureState) => {
-        this.state.pan.setOffset({ x: this.state.pan.x._value, y: this.state.pan.y._value });
-        this.state.pan.setValue({ x: 0, y: 0 });
-      },
-      onPanResponderRelease: (event, gesture) => {
-        const { height } = Dimensions.get('window');
-        this.state.pan.flattenOffset();
-        if (gesture.dy < -100) {
-          Animated.spring(
-            this.state.pan,
-            { toValue: { x: 0, y: 0 }, tension: 20, velocity: .5, }
-          ).start();
-        }
-        else {
-          Animated.spring(
-            this.state.pan,
-            { toValue: { x: 0, y: height - 72 }, tension: 20, velocity: .5 }
-          ).start();
-        }
-        }
-    });
   }
   replaceQueue(tracks) {
     this.setState({ queue: tracks, queueIndex: 0 })
@@ -82,15 +57,12 @@ export class HomeScreen extends React.Component {
   addToQueue(tracks) {
     this.setState({ queue: [...this.state.queue, ...tracks] })
   }
-  changeTrack(index) {
-    console.log(index)
-    this.setState({ queueIndex: index })
-  }
   render() {
     return (
       <View style={styles.container}>
         <View style={{height: 32, width: '100%'}}></View>
-          <QueueScreen
+        <QueueScreen
+            queueHidden={this.state.queueHidden}
             queue={this.state.queue}
             queueIndex={this.state.queueIndex}
             changeTrack={(event, trackIndex) => this.setState({ currentTrack: this.state.queue[trackIndex], queueIndex: trackIndex })}
@@ -113,8 +85,9 @@ export class HomeScreen extends React.Component {
         </ScrollView>
         {this.state.queue.length > 0 ? (
           <PlayerScreen
+            onQueuePress={(event) => this.setState({queueHidden: event.timeStamp}) }
             queueIndex={this.state.queueIndex}
-            onTrackChange={(currentTrackIndex) => this.changeTrack(currentTrackIndex)}
+            onTrackChange={(currentTrackIndex) => this.setState({ queueIndex: currentTrackIndex })}
             queue={this.state.queue}
             {...this.props} />
           ) : null}

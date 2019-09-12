@@ -13,7 +13,7 @@ class PlayerScreen extends React.Component {
         super(props)
         this.playerMinimized = this.props.playerMinimized;
         this.state = {
-            paused: true,
+            paused: false,
             totalLength: 1,
             currentPosition: 0,
             queue: this.props.queue,
@@ -24,6 +24,7 @@ class PlayerScreen extends React.Component {
             pan: new Animated.ValueXY(),
             playerMinimized: false,
         };
+        this.onQueuePress = this.props.onQueuePress;
         const { height } = Dimensions.get('window');
         this.panResponder = PanResponder.create({
             onStartShouldSetPanResponder: () => true,
@@ -70,6 +71,10 @@ class PlayerScreen extends React.Component {
                 }
             }
         });
+    }
+    componentDidMount() {
+        this.onQueuePress({timeStamp: 1})
+        
     }
     componentWillReceiveProps({ queue, queueIndex }) {
         if (this.state.currentTrackIndex === queueIndex) {
@@ -191,11 +196,13 @@ class PlayerScreen extends React.Component {
                     message={this.state.currentTrack.title}
                     onDownPress={() => this.navigation.navigate('Home')}
                     onMessagePress={() => { }}
-                    onQueuePress={() => { }} />
+                    onQueuePress={(event) => this.onQueuePress(event)} />
                 <View style={{backgroundColor: 'rgba(0,0,0,1)', flex: 1}}>
                     <AlbumArt
                         album={this.state.currentTrack} {...this.props} />
                     <TrackDetails
+                        queue={this.state.queue}
+                        queueIndex={this.state.currentTrackIndex}
                         title={this.state.currentTrack.title}
                         artist={this.state.currentTrack.artist}
                         onAddPress={() => { }}

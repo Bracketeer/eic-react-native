@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Image, Text, StyleSheet, Dimensions } from 'react-native'
-import { TouchableHighlight } from 'react-native-gesture-handler';
+import { TouchableHighlight, TouchableOpacity } from 'react-native-gesture-handler';
 import mapTrack from '../maps/mapTrack';
 const { width } = Dimensions.get('window');
 
@@ -77,15 +77,15 @@ export class Album extends React.Component {
                 <View>
                     {this.state.showOptionsMenu ? (
                     <View style={[this.styles.optionsView]}>
-                        <TouchableHighlight onPress={(event) => this.manageOptions(event, 'onReplaceQueue')}>
+                        <TouchableOpacity onPress={(event) => this.manageOptions(event, 'onReplaceQueue')}>
                             <Text style={[this.styles.infoText, this.styles.optionButton]}>Play Album</Text>
-                        </TouchableHighlight>
-                        <TouchableHighlight onPress={(event) => this.manageOptions(event, 'onPlayNext')}>
+                        </TouchableOpacity>
+                        <TouchableOpacity onPress={(event) => this.manageOptions(event, 'onPlayNext')}>
                             <Text style={[this.styles.infoText, this.styles.optionButton]}>Play Next</Text>
-                        </TouchableHighlight>
-                        <TouchableHighlight onPress={(event) => this.manageOptions(event, 'onAddToQueue')}>
+                        </TouchableOpacity>
+                        <TouchableOpacity onPress={(event) => this.manageOptions(event, 'onAddToQueue')}>
                             <Text style={[this.styles.infoText, this.styles.optionButton]}>Add to Queue</Text>
-                        </TouchableHighlight>
+                        </TouchableOpacity>
                     </View>
                     ) : null}
                     <TouchableHighlight

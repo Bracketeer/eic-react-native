@@ -1,8 +1,16 @@
 import React from 'react';
-import { View, Animated, PanResponder, Dimensions, ScrollView, StyleSheet, Text } from 'react-native';
+import {
+    Animated,
+    PanResponder,
+    Dimensions,
+    ScrollView,
+    StyleSheet,
+    Text,
+    Easing
+} from 'react-native';
 import Track from '../components/Queue/Track';
 import { TouchableHighlight } from 'react-native-gesture-handler';
-const { width, height } = Dimensions.get('window');
+const { width } = Dimensions.get('window');
 
 export class QueueScreen extends React.Component {
     constructor(props) {
@@ -39,7 +47,11 @@ export class QueueScreen extends React.Component {
                     this.setState({ queueHidden: false })
                     Animated.spring(
                         this.state.pan,
-                        { toValue: { x: 0, y: 0 }, tension: 70, velocity: .5, overshootClamping: true }
+                        {
+                            toValue: { x: 0, y: 0 },
+                            tension: 70, velocity: .5,
+                            overshootClamping: true,
+                        }
                     ).start();
                 }
                 else
@@ -47,26 +59,63 @@ export class QueueScreen extends React.Component {
                         this.setState({ queueHidden: true })
                         Animated.spring(
                             this.state.pan,
-                            { toValue: { x: width - 10, y: 0 }, tension: 70, velocity: .5, overshootClamping: true }
+                            {
+                                toValue: { x: width - 10, y: 0 },
+                                tension: 70,
+                                velocity: .5,
+                                overshootClamping: true,
+                            }
                         ).start();
                     } else {
                         if (this.state.queueHidden) {
                             Animated.spring(
                                 this.state.pan,
-                                { toValue: { x: width - 10, y: 0 }, tension: 70, velocity: .5, overshootClamping: true }
+                                {
+                                    toValue: { x: width - 10, y: 0 },
+                                    tension: 70,
+                                    velocity: .5,
+                                    overshootClamping: true,
+                                }
                             ).start();
                         } else {
                             Animated.spring(
                                 this.state.pan,
-                                { toValue: { x: width - 10, y: 0 }, tension: 70, velocity: .5, overshootClamping: true }
+                                {
+                                    toValue: { x: width - 10, y: 0 },
+                                    tension: 70,
+                                    velocity: .5,
+                                    overshootClamping: true,
+                                }
                             ).start();
                         }
                     }
             }
         });
     }
-    componentWillReceiveProps({ queue, queueIndex }) {
+    componentWillReceiveProps({ queue, queueIndex, queueHidden }) {
         this.setState({ queue: queue, currentTrackIndex: queueIndex })
+        if (this.state.queueHidden) {
+            Animated.timing(
+                this.state.pan,
+                {
+                    toValue: { x: 0, y: 0 },
+                    easing: Easing.inOut(Easing.quad),
+                    duration: 800,
+                    overshootClamping: true,
+                }
+            ).start();
+        } else {
+            Animated.timing(
+                this.state.pan,
+                {
+                    toValue: { x: width - 10, y: 0 },
+                    easing: Easing.inOut(Easing.quad),
+                    duration: 800,
+                    overshootClamping: true,
+                }
+            ).start();
+        }
+        this.setState({ queueHidden: !this.state.queueHidden })
     }
     Tracks({queue}) {
         return queue.map((track, index) => {
