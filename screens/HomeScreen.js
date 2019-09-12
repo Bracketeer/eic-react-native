@@ -82,18 +82,19 @@ export class HomeScreen extends React.Component {
   addToQueue(tracks) {
     this.setState({ queue: [...this.state.queue, ...tracks] })
   }
+  changeTrack(index) {
+    console.log(index)
+    this.setState({ queueIndex: index })
+  }
   render() {
     return (
       <View style={styles.container}>
         <View style={{height: 32, width: '100%'}}></View>
-        {/* <SearchBar /> */}
-        {this.state.queue.length > 0 ? (
           <QueueScreen
             queue={this.state.queue}
             queueIndex={this.state.queueIndex}
             changeTrack={(event, trackIndex) => this.setState({ currentTrack: this.state.queue[trackIndex], queueIndex: trackIndex })}
-            {...this.props} />) : null
-        }
+            {...this.props} />
         <ScrollView
           style={styles.container}
           contentContainerStyle={styles.contentContainer}>
@@ -113,7 +114,7 @@ export class HomeScreen extends React.Component {
         {this.state.queue.length > 0 ? (
           <PlayerScreen
             queueIndex={this.state.queueIndex}
-            onTrackChange={(currentTrackIndex) => this.setState({queueIndex: currentTrackIndex})}
+            onTrackChange={(currentTrackIndex) => this.changeTrack(currentTrackIndex)}
             queue={this.state.queue}
             {...this.props} />
           ) : null}

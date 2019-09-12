@@ -10,8 +10,8 @@ export class QueueScreen extends React.Component {
         this.state = {
             queue: this.props.queue,
             currentTrackIndex: this.props.queueIndex,
-            queueHidden: false,
-            pan: new Animated.ValueXY(),
+            queueHidden: true,
+            pan: new Animated.ValueXY({x: width - 10, y: 0}),
         }
         const touchThreshold = 30;
         this.panResponder = PanResponder.create({

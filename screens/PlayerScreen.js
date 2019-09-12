@@ -72,10 +72,20 @@ class PlayerScreen extends React.Component {
         });
     }
     componentWillReceiveProps({ queue, queueIndex }) {
-        this.setState({ queue: queue, currentTrackIndex: queueIndex, currentTrack: queue[queueIndex] })
-    }
-    setCurrentTrack(track) {
-        
+        if (this.state.currentTrackIndex === queueIndex) {
+            this.setState({ queue: queue })
+        } else {
+            this.refs.audioElement && this.refs.audioElement.setPositionAsync(0);
+            this.setState({ isChanging: true });
+            setTimeout(() => this.setState({
+                queue: queue,
+                currentTrackIndex: queueIndex,
+                currentTrack: queue[queueIndex],
+                isChanging: false,
+                currentPosition: 0,
+                totalLength: 1
+            }), 0)
+        }
     }
     setDuration(data) {
         if (data.durationMillis) {
@@ -110,7 +120,7 @@ class PlayerScreen extends React.Component {
                 currentTrackIndex: this.state.currentTrackIndex - 1,
                 currentTrack: this.state.queue[this.state.currentTrackIndex - 1]
             }), 0);
-            this.props.onTrackChange(this.state.currentTrackIndex)
+            this.props.onTrackChange(this.state.currentTrackIndex - 1)
         } else {
             this.refs.audioElement.setPositionAsync(0);
             this.setState({
@@ -139,7 +149,7 @@ class PlayerScreen extends React.Component {
                 currentTrackIndex: this.state.currentTrackIndex + 1,
                 currentTrack: this.state.queue[this.state.currentTrackIndex + 1]
             }), 0);
-            this.props.onTrackChange(this.state.currentTrackIndex)  
+            this.props.onTrackChange(this.state.currentTrackIndex + 1)  
         } else {
             this.refs.audioElement.pauseAsync();
         }
@@ -165,7 +175,7 @@ class PlayerScreen extends React.Component {
                 source={{ uri: track.url }}
                 ref="audioElement"
                 resizeMode="cover"
-                shouldPlay={false}
+                shouldPlay={true}
                 isLooping={true}
                 onLoadStart={this.isLoaded}
                 onLoad={this.setDuration.bind(this)}
