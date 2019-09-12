@@ -36,7 +36,7 @@ class PlayerScreen extends React.Component {
                 }
             },
             onResponderTerminationRequest: () => false,
-            onPanResponderGrant: (e, gestureState) => {
+            onPanResponderGrant: (event, gesture) => {
                 this.state.pan.setOffset({ x: this.state.pan.x._value, y: this.state.pan.y._value });
                 this.state.pan.setValue({ x: 0, y: 0 });
             },
@@ -74,10 +74,11 @@ class PlayerScreen extends React.Component {
     }
     componentDidMount() {
         this.onQueuePress({timeStamp: 1})
-        
+
     }
     componentWillReceiveProps({ queue, queueIndex }) {
-        if (this.state.currentTrackIndex === queueIndex) {
+        const extendsQueue = queue.map(track => track.title).includes(this.state.currentTrack.title);
+        if (this.state.currentTrackIndex === queueIndex && extendsQueue) {
             this.setState({ queue: queue })
         } else {
             this.refs.audioElement && this.refs.audioElement.setPositionAsync(0);
@@ -88,7 +89,7 @@ class PlayerScreen extends React.Component {
                 currentTrack: queue[queueIndex],
                 isChanging: false,
                 currentPosition: 0,
-                totalLength: 1
+                totalLength: 1,
             }), 0)
         }
     }
@@ -154,7 +155,7 @@ class PlayerScreen extends React.Component {
                 currentTrackIndex: this.state.currentTrackIndex + 1,
                 currentTrack: this.state.queue[this.state.currentTrackIndex + 1]
             }), 0);
-            this.props.onTrackChange(this.state.currentTrackIndex + 1)  
+            this.props.onTrackChange(this.state.currentTrackIndex + 1)
         } else {
             this.refs.audioElement.pauseAsync();
         }

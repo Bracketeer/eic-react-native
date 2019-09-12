@@ -25,9 +25,10 @@ const Track = ({
 
 const styles = StyleSheet.create({
     container: {
-        width: width,
         flex: 1,
-        flexDirection: 'row'
+        flexDirection: 'row',
+        borderColor: 'blue',
+        borderWidth: 1,
     },
     image: {
         height: 50,
@@ -35,14 +36,17 @@ const styles = StyleSheet.create({
         borderRadius: 5
     },
     trackInfoContainer: {
-        width: width - 70,
         padding: 10,
+        borderColor: 'red',
+        borderWidth: 1,
+        flex: 1,
+        justifyContent: 'space-between'
     },
     trackHeader: {
-        flex: 1,
         flexDirection: 'row',
         justifyContent: 'space-between',
-        width: '100%'
+        borderColor: 'green',
+        borderWidth: 1,
     },
     infoText: {
         fontSize: 12,

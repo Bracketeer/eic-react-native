@@ -20,54 +20,32 @@ export default class TrackDetails extends React.Component {
         super(props);
         this.state = {
             queueHidden: true,
-            pan: new Animated.ValueXY(),
+            trackDetailsPan: new Animated.ValueXY(),
+            queuePan: new Animated.ValueXY(),
             queue: this.props.queue,
             queueIndex: this.props.queueIndex,
         }
         this.panResponder = PanResponder.create({
             onStartShouldSetPanResponder: () => true,
             onPanResponderMove: (event, guesture) => {
-                console.log('hi')
                 // if ((this.state.queueHidden && guesture.dy < 0) || !this.state.queueHidden && guesture.dy > 0) {
                     Animated.event([null, {
-                        dy: this.state.pan.y
+                        dy: this.state.trackDetailsPan.y
                     },])(event, guesture)
                 // }
             },
             onResponderTerminationRequest: () => false,
             onPanResponderGrant: (e, gestureState) => {
-                this.state.pan.setOffset({ x: this.state.pan.x._value, y: this.state.pan.y._value });
-                this.state.pan.setValue({ x: 0, y: 0 });
+                this.state.trackDetailsPan.setOffset({ x: this.state.trackDetailsPan.x._value, y: this.state.trackDetailsPan.y._value });
+                this.state.trackDetailsPan.setValue({ x: 0, y: 0 });
             },
             onPanResponderRelease: (event, gesture) => {
-                this.state.pan.flattenOffset();
-                if (gesture.dy < -100) {
-                    this.setState({ queueHidden: false })
-                    Animated.spring(
-                        this.state.pan,
-                        { toValue: { x: 0, y: 0 }, tension: 40, velocity: .5, overshootClamping: true }
-                    ).start();
-                }
-                else
-                    if (gesture.dy > 100) {
-                        this.setState({ queueHidden: true })
-                        Animated.spring(
-                            this.state.pan,
-                            { toValue: { x: 0, y: height - 72 }, tension: 40, velocity: .5, overshootClamping: true }
-                        ).start();
-                    } else {
-                        if (this.state.queueHidden) {
-                            Animated.spring(
-                                this.state.pan,
-                                { toValue: { x: 0, y: height - 72 }, tension: 40, velocity: .5, overshootClamping: true }
-                            ).start();
-                        } else {
-                            Animated.spring(
-                                this.state.pan,
-                                { toValue: { x: 0, y: 0 }, tension: 20, velocity: .5, overshootClamping: true }
-                            ).start();
-                        }
-                    }
+                this.state.trackDetailsPan.flattenOffset();
+                this.setState({ queueHidden: !this.state.queueHidden })
+                Animated.spring(
+                    this.state.trackDetailsPan,
+                    { toValue: { x: 0, y: 0 }, tension: 40, velocity: .5 }
+                ).start();
             }
         });
 
@@ -94,23 +72,24 @@ export default class TrackDetails extends React.Component {
     };
     render() {
         return (
-            <View style={styles.container}>
+            // <View>
+            //     { !this.state.queueHidden ? (
+            //         <Animated.View
+            //             {...this.panResponder.panHandlers}
+            //             style={[this.state.queuePan.getLayout()]}>
+            //             <ScrollView>
+            //                 {this.Tracks()}
+            //             </ScrollView>
+            //         </Animated.View>
+            //     ): null }
+                <View style={styles.container}>
                 <TouchableOpacity onPress={this.props.onAddPress}>
                     <Image style={styles.moreButton}
                         source={require('../../assets/images/add.png')} />
                 </TouchableOpacity>
-                { !this.state.queueHidden ? (
-                    <Animated.View
-                        {...this.panResponder.panHandlers}
-                        style={[this.state.pan.getLayout()]}>
-                        <ScrollView>
-                            {this.Tracks()}
-                        </ScrollView>
-                    </Animated.View>
-                ): null }
                 <Animated.View
-                    // {...this.panResponder.panHandlers}                
-                    style={[styles.detailsWrapper, this.state.pan.getLayout()]}>
+                    {...this.panResponder.panHandlers}
+                    style={[styles.detailsWrapper, this.state.trackDetailsPan.getLayout()]}>
                     <Text style={styles.title} onPress={this.props.onTitlePress}>{this.props.title}</Text>
                     <Text style={styles.artist} onPress={this.props.onArtistPress}>{this.props.artist}</Text>
                 </Animated.View>
@@ -121,12 +100,14 @@ export default class TrackDetails extends React.Component {
                     </View>
                 </TouchableOpacity>
             </View>
+        // </View>
         );
     }
 }
 
 const styles = StyleSheet.create({
     container: {
+        flex: 1,
         paddingTop: 20,
         paddingBottom: 20,
         paddingLeft: 20,
@@ -139,7 +120,8 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         flex: 1,
         borderWidth: 1,
-        borderColor: 'red'
+        borderColor: 'red',
+        padding: 20
     },
     title: {
         fontSize: 16,
