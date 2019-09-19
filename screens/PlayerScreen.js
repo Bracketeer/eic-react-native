@@ -115,7 +115,7 @@ class PlayerScreen extends React.Component {
     }
 
     onBack() {
-        if (this.state.currentPosition < 10 && this.state.currentTrackIndex > 0) {
+        if (this.state.currentPosition < 2000 && this.state.currentTrackIndex > 0) {
             this.refs.audioElement && this.refs.audioElement.setPositionAsync(0);
             this.setState({ isChanging: true });
             setTimeout(() => this.setState({
